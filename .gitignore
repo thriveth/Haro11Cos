@@ -1,0 +1,13 @@
+undo/
+!.gitignore
+./.ropeproject
+
+# No data files:
+*.fits
+# No byte-compiled files:
+*.pyc
+.pyc
+.ipynb_checkpoints/
+
+# Single files:
+testdata1d.dat
