@@ -20,7 +20,6 @@ from linelists import COSlines, SDSSlines, MWlines, fikdict, wlsdict, \
 from uncertainties import ufloat as ufl
 from uncertainties import unumpy as unp
 
-
 #================================================================================
 #		Plot details setup.
 #================================================================================
@@ -498,6 +497,7 @@ def make_line_profile_plots(
                  'Si II 1260': 1260.42,
                  'Si II 1304': 1304.37,
                  'Si II 1526': 1526.72,
+                 'Si III 1206': 1206.50,
                  'Si IV 1122': 1122.49,
                  'Si IV 1393': 1393.76,
                  'Si IV 1402': 1402.77}

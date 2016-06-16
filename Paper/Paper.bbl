@@ -1,0 +1,63 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Adamo} {et~al.}(2010){Adamo}, {{\"O}stlin}, {Zackrisson}, {Hayes},
+  {Cumming}, \& {Micheva}}]{Adamo2010}
+{Adamo}, A., {{\"O}stlin}, G., {Zackrisson}, E., {et~al.} 2010, \mnras, 407,
+  870
+
+\bibitem[{{Bergvall} {et~al.}(2006){Bergvall}, {Zackrisson}, {Andersson},
+  {Arnberg}, {Masegosa}, \& {{\"O}stlin}}]{Bergvall2006}
+{Bergvall}, N., {Zackrisson}, E., {Andersson}, B.-G., {et~al.} 2006, \aap, 448,
+  513
+
+\bibitem[{{Hayes} {et~al.}(2007){Hayes}, {{\"O}stlin}, {Atek}, {Kunth},
+  {Mas-Hesse}, {Leitherer}, {Jim{\'e}nez-Bail{\'o}n}, \& {Adamo}}]{Hayes2007}
+{Hayes}, M., {{\"O}stlin}, G., {Atek}, H., {et~al.} 2007, \mnras, 382, 1465
+
+\bibitem[{{Hoopes} {et~al.}(2007){Hoopes}, {Heckman}, {Salim}, {Seibert},
+  {Tremonti}, {Schiminovich}, {Rich}, {Martin}, {Charlot}, {Kauffmann},
+  {Forster}, {Friedman}, {Morrissey}, {Neff}, {Small}, {Wyder}, {Bianchi},
+  {Donas}, {Lee}, {Madore}, {Milliard}, {Szalay}, {Welsh}, \&
+  {Yi}}]{Hoopes2007}
+{Hoopes}, C.~G., {Heckman}, T.~M., {Salim}, S., {et~al.} 2007, \apjs, 173, 441
+
+\bibitem[{{Kunth} {et~al.}(2003){Kunth}, {Leitherer}, {Mas-Hesse},
+  {{\"O}stlin}, \& {Petrosian}}]{Kunth2003}
+{Kunth}, D., {Leitherer}, C., {Mas-Hesse}, J.~M., {{\"O}stlin}, G., \&
+  {Petrosian}, A. 2003, \apj, 597, 263
+
+\bibitem[{{Leitet} {et~al.}(2011){Leitet}, {Bergvall}, {Piskunov}, \&
+  {Andersson}}]{Leitet2011}
+{Leitet}, E., {Bergvall}, N., {Piskunov}, N., \& {Andersson}, B.-G. 2011, \aap,
+  532, A107
+
+\bibitem[{{Micheva} {et~al.}(2010){Micheva}, {Zackrisson}, {{\"O}stlin},
+  {Bergvall}, \& {Pursimo}}]{Micheva2010}
+{Micheva}, G., {Zackrisson}, E., {{\"O}stlin}, G., {Bergvall}, N., \&
+  {Pursimo}, T. 2010, \mnras, 405, 1203
+
+\bibitem[{{{\"O}stlin} {et~al.}(2001){{\"O}stlin}, {Amram}, {Bergvall},
+  {Masegosa}, {Boulesteix}, \& {M{\'a}rquez}}]{Ostlin2001}
+{{\"O}stlin}, G., {Amram}, P., {Bergvall}, N., {et~al.} 2001, \aap, 374, 800
+
+\bibitem[{{{\"O}stlin} {et~al.}(1999){{\"O}stlin}, {Amram}, {Masegosa},
+  {Bergvall}, \& {Boulesteix}}]{Ostlin1999}
+{{\"O}stlin}, G., {Amram}, P., {Masegosa}, J., {Bergvall}, N., \& {Boulesteix},
+  J. 1999, \aaps, 137, 419
+
+\bibitem[{{{\"O}stlin} {et~al.}(2015){{\"O}stlin}, {Marquart}, {Cumming},
+  {Fathi}, {Bergvall}, {Adamo}, {Amram}, \& {Hayes}}]{Ostlin2015}
+{{\"O}stlin}, G., {Marquart}, T., {Cumming}, R.~J., {et~al.} 2015, \aap, 583,
+  A55
+
+\bibitem[{{Sandberg} {et~al.}(2013){Sandberg}, {{\"O}stlin}, {Hayes}, {Fathi},
+  {Schaerer}, {Mas-Hesse}, \& {Rivera-Thorsen}}]{Sandberg2013}
+{Sandberg}, A., {{\"O}stlin}, G., {Hayes}, M., {et~al.} 2013, \aap, 552, A95
+
+\bibitem[{{Vader} {et~al.}(1993){Vader}, {Frogel}, {Terndrup}, \&
+  {Heisler}}]{Vader1993}
+{Vader}, J.~P., {Frogel}, J.~A., {Terndrup}, D.~M., \& {Heisler}, C.~A. 1993,
+  \aj, 106, 1743
+
+\end{thebibliography}

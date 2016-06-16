@@ -1,0 +1,175 @@
+%%%============================================================================
+%
+%   Pandoc template to convert to latex using emulateapj.
+%   
+%
+%   Usage:
+%   ------
+%
+%   pandoc --template=[/Path/To/File/]pandoc-apj.latex
+%
+%
+%
+%   Caveats (mostly limitations in pandoc):
+%   ---------------------------------------
+%
+%   + Doesn't do figure* and table* environments, these must be tweaked 
+%     manually from standard figure and table environments or inserted as raw
+%     LaTeX rather than Markdown figure invironments.
+%     UPDATE: This can be accomplished by using Scholdoc rather than Pandoc.
+%   + Same goes for equations: pandoc (at the time of writing) only does
+%     displaymath, equations must be declared in raw LaTeX
+%   + Graphics are not scaled, because the autoscale function provided in the
+%     template is using the raw TeX \def function, which is not supported in
+%     ApJ. UPDATE: This has been fixed in Pandoc, and Scholdoc even better.
+%     Use Scholdoc! 
+%
+%   Copyright 2014-2016 T. E. Rivera-Thorsen.
+%
+%%%============================================================================
+\documentclass[preprint2]{aastex6}
+% \usepackage{lmodern}
+% \usepackage{dcolumn}
+\usepackage{amssymb,amsmath}
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc}
+% $if(geometry)$
+% \usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
+% $endif$
+\usepackage{natbib}
+\bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
+$if(listings)$
+\usepackage{listings}
+$endif$
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+$if(verbatim-in-note)$
+\usepackage{fancyvrb}
+$endif$
+$if(graphics)$
+\usepackage{graphicx}
+$endif$
+%\ifxetex
+%  \usepackage[setpagesize=false, % page size defined by xetex
+%              unicode=false, % unicode breaks when used with xetex
+%              xetex]{hyperref}
+%\else
+%\usepackage[unicode=true]{hyperref}
+%\fi
+\hypersetup{breaklinks=true,
+           bookmarks=true,
+           pdfauthor={$author-meta$},
+           pdftitle={$title-meta$},
+           colorlinks=true,
+           citecolor=$if(citecolor)$$citecolor$$else$blue$endif$,
+           urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$,
+           linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,
+           pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+% \setlength{\parindent}{0pt}
+% \setlength{\parskip}{6pt plus 2pt minus 1pt}
+% \setlength{\emergencystretch}{3em}  % prevent overfull lines
+% \setcounter{secnumdepth}{5}
+$if(verbatim-in-note)$
+\VerbatimFootnotes % allows verbatim text in footnotes
+$endif$
+$if(lang)$
+  \usepackage[$lang$]{babel}
+$endif$
+
+$if(shorttitle)$
+\shorttitle{$shorttitle$}
+$endif$
+
+$if(shortauthor)$
+\shortauthors{$shortauthor$}
+$endif$
+
+$if(slugcomment)$
+\slugcomment{$slugcomment$}
+$endif$
+
+$if(journalinfo)$
+\journalinfo{$journalinfo$}
+$endif$
+
+$if(submitted)$
+\submitted{$submitted$}
+$endif$
+
+
+% $if(date)$
+% \date{$date$}
+% $else$
+% \date{\today}
+% $endif$
+
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+%%%-----------------------------------------------------------------------
+%      Macros
+%%%-----------------------------------------------------------------------
+
+\begin{document}
+
+$if(title)$
+\title{$title$$if(titlefootnote)$$for(titlefootnote)$ 
+\footnotemark[$titlefootnote.mark$]$endfor$$endif$}
+$if(titlefootnote)$
+$for(titlefootnote)$
+\footnotetext[$titlefootnote.mark$]{$titlefootnote.text$}
+$endfor$
+$endif$
+$endif$
+
+$for(author)$
+$if(author.name)$
+\author{$author.name$$if(author.altaffil)$\altaffilmark{$author.altaffil$}$endif$}
+$if(author.affil)$\affil{$author.affil$}$endif$
+$else$
+\author{$author$}
+$if(affil)$\affil{$affil$}$endif$
+$endif$
+$endfor$
+
+$for(altaffiltext)$
+\altaffiltext{$altaffiltext.num$}{$altaffiltext.text$}
+$endfor$
+
+$if(abstract)$
+\begin{abstract}
+$abstract$
+\end{abstract}
+$endif$
+
+$for(include-before)$
+$include-before$
+
+$endfor$
+$body$
+
+$if(natbib)$
+$if(biblio-files)$
+$if(biblio-title)$
+$if(book-class)$
+\renewcommand\bibname{$biblio-title$}
+$else$
+\renewcommand\refname{$biblio-title$}
+$endif$
+$endif$
+\bibliography{$biblio-files$}
+
+$endif$
+$endif$
+$if(biblatex)$
+\printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
+
+$endif$
+$for(include-after)$
+$include-after$
+
+$endfor$
+\end{document}
