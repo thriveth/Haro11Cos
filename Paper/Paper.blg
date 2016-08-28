@@ -5,44 +5,44 @@ The style file: aasjournal.bst
 Database file #1: PaperNotes.bib
 Database file #2: ./main.bib.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 12 entries,
+You've used 19 entries,
             3183 wiz_defined-function locations,
-            759 strings with 8116 characters,
-and the built_in function-call counts, 7014 in all, are:
-= -- 568
-> -- 616
-< -- 0
-+ -- 215
-- -- 242
-* -- 647
-:= -- 1338
-add.period$ -- 12
-call.type$ -- 12
-change.case$ -- 113
-chr.to.int$ -- 12
-cite$ -- 12
-duplicate$ -- 228
-empty$ -- 341
-format.name$ -- 240
-if$ -- 1351
+            816 strings with 10145 characters,
+and the built_in function-call counts, 10483 in all, are:
+= -- 842
+> -- 905
+< -- 2
++ -- 309
+- -- 348
+* -- 963
+:= -- 2004
+add.period$ -- 19
+call.type$ -- 19
+change.case$ -- 155
+chr.to.int$ -- 19
+cite$ -- 19
+duplicate$ -- 361
+empty$ -- 531
+format.name$ -- 355
+if$ -- 2030
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 12
-newline$ -- 40
-num.names$ -- 48
-pop$ -- 122
+missing$ -- 19
+newline$ -- 61
+num.names$ -- 76
+pop$ -- 164
 preamble$ -- 1
-purify$ -- 113
+purify$ -- 155
 quote$ -- 0
-skip$ -- 188
+skip$ -- 296
 stack$ -- 0
-substring$ -- 264
+substring$ -- 393
 swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 108
+type$ -- 171
 warning$ -- 0
-while$ -- 47
+while$ -- 72
 width$ -- 0
-write$ -- 123
+write$ -- 193

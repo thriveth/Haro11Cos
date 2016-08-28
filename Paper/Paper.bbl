@@ -6,14 +6,35 @@
 {Adamo}, A., {{\"O}stlin}, G., {Zackrisson}, E., {et~al.} 2010, \mnras, 407,
   870
 
+\bibitem[{{Alexandroff} {et~al.}(2015){Alexandroff}, {Heckman}, {Borthakur},
+  {Overzier}, \& {Leitherer}}]{Alexandroff2015}
+{Alexandroff}, R.~M., {Heckman}, T.~M., {Borthakur}, S., {Overzier}, R., \&
+  {Leitherer}, C. 2015, \apj, 810, 104
+
 \bibitem[{{Bergvall} {et~al.}(2006){Bergvall}, {Zackrisson}, {Andersson},
   {Arnberg}, {Masegosa}, \& {{\"O}stlin}}]{Bergvall2006}
 {Bergvall}, N., {Zackrisson}, E., {Andersson}, B.-G., {et~al.} 2006, \aap, 448,
   513
 
+\bibitem[{{Bouwens} {et~al.}(2012){Bouwens}, {Illingworth}, {Oesch}, {Trenti},
+  {Labb{\'e}}, {Franx}, {Stiavelli}, {Carollo}, {van Dokkum}, \&
+  {Magee}}]{Bouwens2012}
+{Bouwens}, R.~J., {Illingworth}, G.~D., {Oesch}, P.~A., {et~al.} 2012, \apjl,
+  752, L5
+
 \bibitem[{{Hayes} {et~al.}(2007){Hayes}, {{\"O}stlin}, {Atek}, {Kunth},
   {Mas-Hesse}, {Leitherer}, {Jim{\'e}nez-Bail{\'o}n}, \& {Adamo}}]{Hayes2007}
 {Hayes}, M., {{\"O}stlin}, G., {Atek}, H., {et~al.} 2007, \mnras, 382, 1465
+
+\bibitem[{{Heckman} {et~al.}(2015){Heckman}, {Alexandroff}, {Borthakur},
+  {Overzier}, \& {Leitherer}}]{Heckman2015}
+{Heckman}, T.~M., {Alexandroff}, R.~M., {Borthakur}, S., {Overzier}, R., \&
+  {Leitherer}, C. 2015, \apj, 809, 147
+
+\bibitem[{{Heckman} {et~al.}(2011){Heckman}, {Borthakur}, {Overzier},
+  {Kauffmann}, {Basu-Zych}, {Leitherer}, {Sembach}, {Martin}, {Rich},
+  {Schiminovich}, \& {Seibert}}]{Heckman2011}
+{Heckman}, T.~M., {Borthakur}, S., {Overzier}, R., {et~al.} 2011, \apj, 730, 5
 
 \bibitem[{{Hoopes} {et~al.}(2007){Hoopes}, {Heckman}, {Salim}, {Seibert},
   {Tremonti}, {Schiminovich}, {Rich}, {Martin}, {Charlot}, {Kauffmann},
@@ -21,6 +42,12 @@
   {Donas}, {Lee}, {Madore}, {Milliard}, {Szalay}, {Welsh}, \&
   {Yi}}]{Hoopes2007}
 {Hoopes}, C.~G., {Heckman}, T.~M., {Salim}, S., {et~al.} 2007, \apjs, 173, 441
+
+\bibitem[{{Jaskot} \& {Oey}(2013)}]{Jaskot2013}
+{Jaskot}, A.~E., \& {Oey}, M.~S. 2013, \apj, 766, 91
+
+\bibitem[{{Jaskot} \& {Oey}(2014)}]{JaskotOey}
+---. 2014, \apjl, 791, L19
 
 \bibitem[{{Kunth} {et~al.}(2003){Kunth}, {Leitherer}, {Mas-Hesse},
   {{\"O}stlin}, \& {Petrosian}}]{Kunth2003}
@@ -51,13 +78,21 @@
 {{\"O}stlin}, G., {Marquart}, T., {Cumming}, R.~J., {et~al.} 2015, \aap, 583,
   A55
 
-\bibitem[{{Sandberg} {et~al.}(2013){Sandberg}, {{\"O}stlin}, {Hayes}, {Fathi},
-  {Schaerer}, {Mas-Hesse}, \& {Rivera-Thorsen}}]{Sandberg2013}
-{Sandberg}, A., {{\"O}stlin}, G., {Hayes}, M., {et~al.} 2013, \aap, 552, A95
+\bibitem[{{Rivera-Thorsen} {et~al.}(2015){Rivera-Thorsen}, {Hayes},
+  {{\"O}stlin}, {Duval}, {Orlitov{\'a}}, {Verhamme}, {Mas-Hesse}, {Schaerer},
+  {Cannon}, {Ot{\'{\i}}-Floranes}, {Sandberg}, {Guaita}, {Adamo}, {Atek},
+  {Herenz}, {Kunth}, {Laursen}, \& {Melinder}}]{RiveraThorsen2015}
+{Rivera-Thorsen}, T.~E., {Hayes}, M., {{\"O}stlin}, G., {et~al.} 2015, \apj,
+  805, 14
 
 \bibitem[{{Vader} {et~al.}(1993){Vader}, {Frogel}, {Terndrup}, \&
   {Heisler}}]{Vader1993}
 {Vader}, J.~P., {Frogel}, J.~A., {Terndrup}, D.~M., \& {Heisler}, C.~A. 1993,
   \aj, 106, 1743
+
+\bibitem[{{Verhamme} {et~al.}(2015){Verhamme}, {Orlitov{\'a}}, {Schaerer}, \&
+  {Hayes}}]{Verhamme2015}
+{Verhamme}, A., {Orlitov{\'a}}, I., {Schaerer}, D., \& {Hayes}, M. 2015, \aap,
+  578, A7
 
 \end{thebibliography}

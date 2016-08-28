@@ -14,7 +14,9 @@ import matplotlib.pyplot as plt
 
 def hello_there():
     os.system('notify-send -i ipython "IPython process done! "')
-    os.system('play --no-show-progress --null --channels 1 synth {} sine {}'.format(.6, 550))
+    os.system(
+        'play --no-show-progress --null --channels 1 synth {} sine {}'\
+        .format(.6, 550))
 
 
 def _extract_1d(data, errs, LineLo, LineUp):

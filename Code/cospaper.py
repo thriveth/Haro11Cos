@@ -1639,7 +1639,7 @@ def draw_coverfrac_axes(veldf, ax1, ax2, ax3, ms=3,
         larsname = veldf.columns.name
         if legend:
             leg = ax3.legend(
-                fancybox=True, shadow=False, loc='best',
+                fancybox=True, shadow=False, loc='lower left',
                 fontsize=8)
             leg.set_title(larsname, prop={'size':7})
             leg.draggable()
@@ -1669,7 +1669,7 @@ def single_coverfrac_plot(
 
     ax1.set_ylim(0, 80)
     ax2.set_ylim(9, 16)
-    ax3.set_xlim(-1050, 1050)  # Yeah, hardcoding. A sane default, though.
+    ax3.set_xlim(-900, 600)  # Yeah, hardcoding. A sane default, though.
     ax3.tick_params(labelsize=8)
     ax4.tick_params(labelsize=8)
     ax3.set_ylim(-.2, 1.6)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.6.7)  15 JUN 2016 16:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.6.7)  15 AUG 2016 22:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -544,44 +544,75 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 (hyperref)                setting the option has no effect on input line 55.
 
 Package hyperref Info: Option `colorlinks' set `true' on input line 55.
-Class revtex4-1 Info: Unrecognized array package. Please update this document c
-lass! (Proceeding with fingers crossed.) on input line 77.
-Class revtex4-1 Info: Patching unrecognized longtable package. (Proceeding with
- fingers crossed) on input line 77.
-Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 77.
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-Class revtex4-1 Info: cite was not loaded (OK!) on input line 77.
-Class revtex4-1 Info: mcite was not loaded (OK!) on input line 77.
-Class revtex4-1 Info: multicol was not loaded (OK!) on input line 77.
-(./Paper.aux)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen146
+\captionmargin@=\dimen147
+\captionwidth=\dimen148
+\caption@tempdima=\dimen149
+\caption@indent=\dimen150
+\caption@parindent=\dimen151
+\caption@hangindent=\dimen152
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+\c@KVtest=\count176
+\sf@farskip=\skip64
+\sf@captopadj=\dimen153
+\sf@capskip=\skip65
+\sf@nearskip=\skip66
+\c@subfigure=\count177
+\c@subfigure@save=\count178
+\c@lofdepth=\count179
+\c@subtable=\count180
+\c@subtable@save=\count181
+\c@lotdepth=\count182
+\sf@top=\skip67
+\sf@bottom=\skip68
+)
+Class revtex4-1 Info: Unrecognized array package. Please update this document c
+lass! (Proceeding with fingers crossed.) on input line 78.
+Class revtex4-1 Info: Patching unrecognized longtable package. (Proceeding with
+ fingers crossed) on input line 78.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 78.
+
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 78.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 78.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 78.
+ (./Paper.aux)
 \openout1 = `Paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
- (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count176
-\scratchdimen=\dimen146
+\scratchcounter=\count183
+\scratchdimen=\dimen154
 \scratchbox=\box59
-\nofMPsegments=\count177
-\nofMParguments=\count178
+\nofMPsegments=\count184
+\nofMParguments=\count185
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count179
-\MPscratchDim=\dimen147
-\MPnumerator=\count180
-\makeMPintoPDFobject=\count181
+\MPscratchCnt=\count186
+\MPscratchDim=\dimen155
+\MPnumerator=\count187
+\makeMPintoPDFobject=\count188
 \everyMPtoPDFconversion=\toks37
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -599,7 +630,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box60
-Package hyperref Info: Link coloring ON on input line 77.
+Package hyperref Info: Link coloring ON on input line 78.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -607,34 +638,37 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count182
+\c@section@level=\count189
 )
-LaTeX Info: Redefining \ref on input line 77.
-LaTeX Info: Redefining \pageref on input line 77.
-LaTeX Info: Redefining \nameref on input line 77.
+LaTeX Info: Redefining \ref on input line 78.
+LaTeX Info: Redefining \pageref on input line 78.
+LaTeX Info: Redefining \nameref on input line 78.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-\c@lstlisting=\count183
-Class revtex4-1 Info: Taking \maketitle back from hyperref on input line 77.
+\c@lstlisting=\count190
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+Class revtex4-1 Info: Taking \maketitle back from hyperref on input line 78.
 Class revtex4-1 Info: Overriding lineo.sty, restoring output routine, on input 
-line 77.
-Class revtex4-1 Info: Line numbering not turned on yet on input line 77.
+line 78.
+Class revtex4-1 Info: Line numbering not turned on yet on input line 78.
 \openout3 = `PaperNotes.bib'.
 
-Class revtex4-1 Info: Overriding \@LN@LLerror on input line 77.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 93.
+Class revtex4-1 Info: Overriding \@LN@LLerror on input line 78.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 96.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 93.
+LaTeX Font Info:    Try loading font information for U+msa on input line 96.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 93.
+LaTeX Font Info:    Try loading font information for U+msb on input line 96.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -644,95 +678,98 @@ Class revtex4-1 Warning: Assuming \noaffiliation for authors.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-)
-<../Figs/Haroslit.pdf, id=26, 482.9801pt x 397.5791pt>
-File: ../Figs/Haroslit.pdf Graphic file (type pdf)
-
-<use ../Figs/Haroslit.pdf>
-Package pdftex.def Info: ../Figs/Haroslit.pdf used on input line 114.
-(pdftex.def)             Requested size: 307.87358pt x 253.43663pt.
- <../Figs/FullSpec.pdf, id=27, 505.89pt x 144.54pt>
-File: ../Figs/FullSpec.pdf Graphic file (type pdf)
-
-<use ../Figs/FullSpec.pdf>
-Package pdftex.def Info: ../Figs/FullSpec.pdf used on input line 122.
-(pdftex.def)             Requested size: 505.88875pt x 144.53963pt.
-
-<../Figs/HISLISProfiles.pdf, id=32, 578.16pt x 433.62pt>
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<../Figs/HISLISProfiles.pdf, id=95, 578.16pt x 433.62pt>
 File: ../Figs/HISLISProfiles.pdf Graphic file (type pdf)
 
 <use ../Figs/HISLISProfiles.pdf>
-Package pdftex.def Info: ../Figs/HISLISProfiles.pdf used on input line 133.
+Package pdftex.def Info: ../Figs/HISLISProfiles.pdf used on input line 183.
 (pdftex.def)             Requested size: 252.94499pt x 189.70828pt.
 
-Overfull \hbox (10.67847pt too wide) in paragraph at lines 133--134
+Overfull \hbox (10.67847pt too wide) in paragraph at lines 183--184
  [][] 
  []
 
-<../Figs/LyACoverfracs.pdf, id=33, 397.485pt x 397.485pt>
+<../Figs/Fc_haro11c_LIS.pdf, id=101, 245.57051pt x 245.57051pt>
+File: ../Figs/Fc_haro11c_LIS.pdf Graphic file (type pdf)
+
+<use ../Figs/Fc_haro11c_LIS.pdf>
+Package pdftex.def Info: ../Figs/Fc_haro11c_LIS.pdf used on input line 209.
+(pdftex.def)             Requested size: 205.24384pt x 205.24736pt.
+
+<../Figs/Fc_haro11c-SiIV.pdf, id=102, 245.57051pt x 245.57051pt>
+File: ../Figs/Fc_haro11c-SiIV.pdf Graphic file (type pdf)
+
+<use ../Figs/Fc_haro11c-SiIV.pdf>
+Package pdftex.def Info: ../Figs/Fc_haro11c-SiIV.pdf used on input line 210.
+(pdftex.def)             Requested size: 205.24384pt x 205.24736pt.
+
+<../Figs/LyACoverfracs.pdf, id=107, 397.485pt x 397.485pt>
 File: ../Figs/LyACoverfracs.pdf Graphic file (type pdf)
 
 <use ../Figs/LyACoverfracs.pdf>
-Package pdftex.def Info: ../Figs/LyACoverfracs.pdf used on input line 141.
+Package pdftex.def Info: ../Figs/LyACoverfracs.pdf used on input line 226.
 (pdftex.def)             Requested size: 252.94499pt x 252.95209pt.
 
-Overfull \hbox (10.67847pt too wide) in paragraph at lines 141--142
+Overfull \hbox (10.67847pt too wide) in paragraph at lines 226--227
  [][] 
  []
 
-(./Paper.bbl) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <../Fig
-s/Haroslit.pdf> <../Figs/FullSpec.pdf
+(./Paper.bbl) [2 <../Figs/HISLISProfiles.pdf>] [3 <../Figs/Fc_haro11c_LIS.pdf> 
+<../Figs/Fc_haro11c-SiIV.pdf
 
-pdfTeX warning: pdflatex (file ../Figs/FullSpec.pdf): PDF inclusion: multiple p
-dfs with page group included in a single page
->] [3 <../Figs/HISLISProfiles.pdf> <../Figs/LyACoverfracs.pdf
+pdfTeX warning: pdflatex (file ../Figs/Fc_haro11c-SiIV.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+> <../Figs/LyACoverfracs.pdf
 
 pdfTeX warning: pdflatex (file ../Figs/LyACoverfracs.pdf): PDF inclusion: multi
 ple pdfs with page group included in a single page
 >]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 241.
  (./Paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 160.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 241.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 241.
  ) 
 Here is how much of TeX's memory you used:
- 11661 strings out of 493029
- 159484 string characters out of 6136235
- 305873 words of memory out of 5000000
- 15021 multiletter control sequences out of 15000+600000
- 16884 words of font info for 50 fonts, out of 8000000 for 9000
+ 12458 strings out of 493029
+ 173910 string characters out of 6136235
+ 326660 words of memory out of 5000000
+ 15791 multiletter control sequences out of 15000+600000
+ 19219 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,6n,37p,346b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,10n,49p,598b,613s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0800.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfcc0600.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sfcc0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc0900.pfb><
-/usr/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb></usr/share/texmf/fon
-ts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-s
-uper/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></
-usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/urw/ncntrsbk/uncr8a.pfb>
-Output written on Paper.pdf (3 pages, 1223346 bytes).
+amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0800.pfb></usr/s
+hare/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/typ
+e1/public/cm-super/sfcc0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+fcc0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc0900.pfb></usr/sh
+are/texmf/fonts/type1/public/cm-super/sfcc1000.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
+rm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/sha
+re/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1
+/public/cm-super/sfti1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/he
+lvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8
+a.pfb>
+Output written on Paper.pdf (3 pages, 919082 bytes).
 PDF statistics:
- 315 PDF objects out of 1000 (max. 8388607)
- 235 compressed objects within 3 object streams
- 23 named destinations out of 1000 (max. 500000)
+ 358 PDF objects out of 1000 (max. 8388607)
+ 306 compressed objects within 4 object streams
+ 36 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
