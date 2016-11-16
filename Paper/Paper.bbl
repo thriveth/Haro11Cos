@@ -1,30 +1,64 @@
 \begin{thebibliography}{}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
-\bibitem[{{Adamo} {et~al.}(2010){Adamo}, {{\"O}stlin}, {Zackrisson}, {Hayes},
-  {Cumming}, \& {Micheva}}]{Adamo2010}
-{Adamo}, A., {{\"O}stlin}, G., {Zackrisson}, E., {et~al.} 2010, \mnras, 407,
-  870
-
 \bibitem[{{Alexandroff} {et~al.}(2015){Alexandroff}, {Heckman}, {Borthakur},
   {Overzier}, \& {Leitherer}}]{Alexandroff2015}
 {Alexandroff}, R.~M., {Heckman}, T.~M., {Borthakur}, S., {Overzier}, R., \&
   {Leitherer}, C. 2015, \apj, 810, 104
+
+\bibitem[{{Astropy Collaboration} {et~al.}(2013){Astropy Collaboration},
+  {Robitaille}, {Tollerud}, {Greenfield}, {Droettboom}, {Bray}, {Aldcroft},
+  {Davis}, {Ginsburg}, {Price-Whelan}, {Kerzendorf}, {Conley}, {Crighton},
+  {Barbary}, {Muna}, {Ferguson}, {Grollier}, {Parikh}, {Nair}, {Unther},
+  {Deil}, {Woillez}, {Conseil}, {Kramer}, {Turner}, {Singer}, {Fox}, {Weaver},
+  {Zabalza}, {Edwards}, {Azalee Bostroem}, {Burke}, {Casey}, {Crawford},
+  {Dencheva}, {Ely}, {Jenness}, {Labrie}, {Lim}, {Pierfederici}, {Pontzen},
+  {Ptak}, {Refsdal}, {Servillat}, \& {Streicher}}]{Astropy2013}
+{Astropy Collaboration}, {Robitaille}, T.~P., {Tollerud}, E.~J., {et~al.} 2013,
+  \aap, 558, A33
 
 \bibitem[{{Bergvall} {et~al.}(2006){Bergvall}, {Zackrisson}, {Andersson},
   {Arnberg}, {Masegosa}, \& {{\"O}stlin}}]{Bergvall2006}
 {Bergvall}, N., {Zackrisson}, E., {Andersson}, B.-G., {et~al.} 2006, \aap, 448,
   513
 
-\bibitem[{{Bouwens} {et~al.}(2012){Bouwens}, {Illingworth}, {Oesch}, {Trenti},
-  {Labb{\'e}}, {Franx}, {Stiavelli}, {Carollo}, {van Dokkum}, \&
-  {Magee}}]{Bouwens2012}
-{Bouwens}, R.~J., {Illingworth}, G.~D., {Oesch}, P.~A., {et~al.} 2012, \apjl,
-  752, L5
+\bibitem[{{Borthakur} {et~al.}(2014){Borthakur}, {Heckman}, {Leitherer}, \&
+  {Overzier}}]{Borthakur2014}
+{Borthakur}, S., {Heckman}, T.~M., {Leitherer}, C., \& {Overzier}, R.~A. 2014,
+  Science, 346, 216
 
-\bibitem[{{Hayes} {et~al.}(2007){Hayes}, {{\"O}stlin}, {Atek}, {Kunth},
-  {Mas-Hesse}, {Leitherer}, {Jim{\'e}nez-Bail{\'o}n}, \& {Adamo}}]{Hayes2007}
-{Hayes}, M., {{\"O}stlin}, G., {Atek}, H., {et~al.} 2007, \mnras, 382, 1465
+\bibitem[{{Bouwens} {et~al.}(2011){Bouwens}, {Illingworth}, {Oesch},
+  {Labb{\'e}}, {Trenti}, {van Dokkum}, {Franx}, {Stiavelli}, {Carollo},
+  {Magee}, \& {Gonzalez}}]{Bouwens2011}
+{Bouwens}, R.~J., {Illingworth}, G.~D., {Oesch}, P.~A., {et~al.} 2011, \apj,
+  737, 90
+
+\bibitem[{{Cowie} {et~al.}(2009){Cowie}, {Barger}, \& {Trouille}}]{Cowie2009}
+{Cowie}, L.~L., {Barger}, A.~J., \& {Trouille}, L. 2009, \apj, 692, 1476
+
+\bibitem[{{Erb}(2016)}]{Erb2016}
+{Erb}, D.~K. 2016, \nat, 529, 159
+
+\bibitem[{{Garnett} {et~al.}(1995){Garnett}, {Dufour}, {Peimbert},
+  {Torres-Peimbert}, {Shields}, {Skillman}, {Terlevich}, \&
+  {Terlevich}}]{Garnett1995}
+{Garnett}, D.~R., {Dufour}, R.~J., {Peimbert}, M., {et~al.} 1995, \apjl, 449,
+  L77
+
+\bibitem[{{Goudfrooij} {et~al.}(2010){Goudfrooij}, {Burgh}, {Aloisi}, {Hartig},
+  \& {Penton}}]{CosImaging}
+{Goudfrooij}, P., {Burgh}, E., {Aloisi}, A., {Hartig}, G., \& {Penton}, S.
+  2010, {SMOV: COS NUV Imaging Performance}, Tech. rep.
+
+\bibitem[{{Guseva} {et~al.}(2012){Guseva}, {Izotov}, {Fricke}, \&
+  {Henkel}}]{Guseva2012}
+{Guseva}, N.~G., {Izotov}, Y.~I., {Fricke}, K.~J., \& {Henkel}, C. 2012, \aap,
+  541, A115
+
+\bibitem[{{Hayes} {et~al.}(2009){Hayes}, {{\"O}stlin}, {Mas-Hesse}, \&
+  {Kunth}}]{Hayes2009}
+{Hayes}, M., {{\"O}stlin}, G., {Mas-Hesse}, J.~M., \& {Kunth}, D. 2009, \aj,
+  138, 911
 
 \bibitem[{{Heckman} {et~al.}(2015){Heckman}, {Alexandroff}, {Borthakur},
   {Overzier}, \& {Leitherer}}]{Heckman2015}
@@ -36,12 +70,26 @@
   {Schiminovich}, \& {Seibert}}]{Heckman2011}
 {Heckman}, T.~M., {Borthakur}, S., {Overzier}, R., {et~al.} 2011, \apj, 730, 5
 
-\bibitem[{{Hoopes} {et~al.}(2007){Hoopes}, {Heckman}, {Salim}, {Seibert},
-  {Tremonti}, {Schiminovich}, {Rich}, {Martin}, {Charlot}, {Kauffmann},
-  {Forster}, {Friedman}, {Morrissey}, {Neff}, {Small}, {Wyder}, {Bianchi},
-  {Donas}, {Lee}, {Madore}, {Milliard}, {Szalay}, {Welsh}, \&
-  {Yi}}]{Hoopes2007}
-{Hoopes}, C.~G., {Heckman}, T.~M., {Salim}, S., {et~al.} 2007, \apjs, 173, 441
+\bibitem[{{Henry} {et~al.}(2015){Henry}, {Scarlata}, {Martin}, \&
+  {Erb}}]{Henry2015}
+{Henry}, A., {Scarlata}, C., {Martin}, C.~L., \& {Erb}, D. 2015, \apj, 809, 19
+
+\bibitem[{Holland {et~al.}(2014)}]{CosHandbook}
+Holland, S.~T., {et~al.} 2014, Cosmic Origins Spectrograph Instrument Handbook,
+  6th edn., Baltimore: STScI
+
+\bibitem[{Hunter(2007)}]{Matplotlib}
+Hunter, J. 2007, Computing in Science Engineering, 9, 90
+
+\bibitem[{{Iwata} {et~al.}(2009){Iwata}, {Inoue}, {Matsuda}, {Furusawa},
+  {Hayashino}, {Kousai}, {Akiyama}, {Yamada}, {Burgarella}, \&
+  {Deharveng}}]{Iwata2009}
+{Iwata}, I., {Inoue}, A.~K., {Matsuda}, Y., {et~al.} 2009, \apj, 692, 1287
+
+\bibitem[{{Izotov} {et~al.}(2016){Izotov}, {Schaerer}, {Thuan}, {Worseck},
+  {Guseva}, {Orlitov{\'a}}, \& {Verhamme}}]{Izotov2016MNRAS}
+{Izotov}, Y.~I., {Schaerer}, D., {Thuan}, T.~X., {et~al.} 2016, \mnras, 461,
+  3683
 
 \bibitem[{{Jaskot} \& {Oey}(2013)}]{Jaskot2013}
 {Jaskot}, A.~E., \& {Oey}, M.~S. 2013, \apj, 766, 91
@@ -49,34 +97,72 @@
 \bibitem[{{Jaskot} \& {Oey}(2014)}]{JaskotOey}
 ---. 2014, \apjl, 791, L19
 
-\bibitem[{{Kunth} {et~al.}(2003){Kunth}, {Leitherer}, {Mas-Hesse},
-  {{\"O}stlin}, \& {Petrosian}}]{Kunth2003}
-{Kunth}, D., {Leitherer}, C., {Mas-Hesse}, J.~M., {{\"O}stlin}, G., \&
-  {Petrosian}, A. 2003, \apj, 597, 263
+\bibitem[{Jones {et~al.}(2001--)Jones, Oliphant, Peterson, {et~al.}}]{SciPy}
+Jones, E., Oliphant, T., Peterson, P., {et~al.} 2001--, {SciPy}: Open source
+  scientific tools for {Python}, , , [Online; accessed 2014-11-25]
+
+\bibitem[{{Jones} {et~al.}(2013){Jones}, {Ellis}, {Schenker}, \&
+  {Stark}}]{Jones2013}
+{Jones}, T.~A., {Ellis}, R.~S., {Schenker}, M.~A., \& {Stark}, D.~P. 2013,
+  \apj, 779, 52
+
+\bibitem[{{Leitet} {et~al.}(2013){Leitet}, {Bergvall}, {Hayes}, {Linn{\'e}}, \&
+  {Zackrisson}}]{Leitet2013}
+{Leitet}, E., {Bergvall}, N., {Hayes}, M., {Linn{\'e}}, S., \& {Zackrisson}, E.
+  2013, \aap, 553, A106
 
 \bibitem[{{Leitet} {et~al.}(2011){Leitet}, {Bergvall}, {Piskunov}, \&
   {Andersson}}]{Leitet2011}
 {Leitet}, E., {Bergvall}, N., {Piskunov}, N., \& {Andersson}, B.-G. 2011, \aap,
   532, A107
 
-\bibitem[{{Micheva} {et~al.}(2010){Micheva}, {Zackrisson}, {{\"O}stlin},
-  {Bergvall}, \& {Pursimo}}]{Micheva2010}
-{Micheva}, G., {Zackrisson}, E., {{\"O}stlin}, G., {Bergvall}, N., \&
-  {Pursimo}, T. 2010, \mnras, 405, 1203
+\bibitem[{{Leitherer} {et~al.}(2016){Leitherer}, {Hernandez}, {Lee}, \&
+  {Oey}}]{Leitherer2016}
+{Leitherer}, C., {Hernandez}, S., {Lee}, J.~C., \& {Oey}, M.~S. 2016, \apj,
+  823, 64
 
-\bibitem[{{{\"O}stlin} {et~al.}(2001){{\"O}stlin}, {Amram}, {Bergvall},
-  {Masegosa}, {Boulesteix}, \& {M{\'a}rquez}}]{Ostlin2001}
-{{\"O}stlin}, G., {Amram}, P., {Bergvall}, N., {et~al.} 2001, \aap, 374, 800
+\bibitem[{McKinney(2010)}]{Pandas}
+McKinney, W. 2010, in Proceedings of the 9th Python in Science Conference, ed.
+  S.~van~der Walt \& J.~Millman, 51 -- 56
 
-\bibitem[{{{\"O}stlin} {et~al.}(1999){{\"O}stlin}, {Amram}, {Masegosa},
-  {Bergvall}, \& {Boulesteix}}]{Ostlin1999}
-{{\"O}stlin}, G., {Amram}, P., {Masegosa}, J., {Bergvall}, N., \& {Boulesteix},
-  J. 1999, \aaps, 137, 419
+\bibitem[{{Nestor} {et~al.}(2013){Nestor}, {Shapley}, {Kornei}, {Steidel}, \&
+  {Siana}}]{Nestor2013}
+{Nestor}, D.~B., {Shapley}, A.~E., {Kornei}, K.~A., {Steidel}, C.~C., \&
+  {Siana}, B. 2013, \apj, 765, 47
 
-\bibitem[{{{\"O}stlin} {et~al.}(2015){{\"O}stlin}, {Marquart}, {Cumming},
-  {Fathi}, {Bergvall}, {Adamo}, {Amram}, \& {Hayes}}]{Ostlin2015}
-{{\"O}stlin}, G., {Marquart}, T., {Cumming}, R.~J., {et~al.} 2015, \aap, 583,
-  A55
+\bibitem[{Newville {et~al.}(2014)Newville, Stensitzki, Allen, \&
+  Ingargiola}]{lmfit2014}
+Newville, M., Stensitzki, T., Allen, D.~B., \& Ingargiola, A. 2014, {LMFIT:
+  Non-Linear Least-Square Minimization and Curve-Fitting for Python¶}, , ,
+  doi:10.5281/zenodo.11813
+
+\bibitem[{{{\"O}stlin} {et~al.}(2009){{\"O}stlin}, {Hayes}, {Kunth},
+  {Mas-Hesse}, {Leitherer}, {Petrosian}, \& {Atek}}]{Ostlin2009}
+{{\"O}stlin}, G., {Hayes}, M., {Kunth}, D., {et~al.} 2009, \aj, 138, 923
+
+\bibitem[{{Overzier} {et~al.}(2009){Overzier}, {Heckman}, {Tremonti}, {Armus},
+  {Basu-Zych}, {Gon{\c c}alves}, {Rich}, {Martin}, {Ptak}, {Schiminovich},
+  {Ford}, {Madore}, \& {Seibert}}]{Overzier2009}
+{Overzier}, R.~A., {Heckman}, T.~M., {Tremonti}, C., {et~al.} 2009, \apj, 706,
+  203
+
+\bibitem[{{Pardy} {et~al.}(2016){Pardy}, {Cannon}, {{\"O}stlin}, {Hayes}, \&
+  {Bergvall}}]{Pardy2016arXiv}
+{Pardy}, S.~A., {Cannon}, J.~M., {{\"O}stlin}, G., {Hayes}, M., \& {Bergvall},
+  N. 2016, ArXiv e-prints, arXiv:1609.04020
+
+\bibitem[{{Pettini} {et~al.}(2002){Pettini}, {Rix}, {Steidel}, {Adelberger},
+  {Hunt}, \& {Shapley}}]{Pettini2002}
+{Pettini}, M., {Rix}, S.~A., {Steidel}, C.~C., {et~al.} 2002, \apj, 569, 742
+
+\bibitem[{{Prochaska} {et~al.}(2011){Prochaska}, {Kasen}, \&
+  {Rubin}}]{Prochaska2011}
+{Prochaska}, J.~X., {Kasen}, D., \& {Rubin}, K. 2011, \apj, 734, 24
+
+\bibitem[{{Quider} {et~al.}(2009){Quider}, {Pettini}, {Shapley}, \&
+  {Steidel}}]{Quider2009}
+{Quider}, A.~M., {Pettini}, M., {Shapley}, A.~E., \& {Steidel}, C.~C. 2009,
+  \mnras, 398, 1263
 
 \bibitem[{{Rivera-Thorsen} {et~al.}(2015){Rivera-Thorsen}, {Hayes},
   {{\"O}stlin}, {Duval}, {Orlitov{\'a}}, {Verhamme}, {Mas-Hesse}, {Schaerer},
@@ -85,14 +171,53 @@
 {Rivera-Thorsen}, T.~E., {Hayes}, M., {{\"O}stlin}, G., {et~al.} 2015, \apj,
   805, 14
 
+\bibitem[{{Robertson} {et~al.}(2013){Robertson}, {Furlanetto}, {Schneider},
+  {Charlot}, {Ellis}, {Stark}, {McLure}, {Dunlop}, {Koekemoer}, {Schenker},
+  {Ouchi}, {Ono}, {Curtis-Lake}, {Rogers}, {Bowler}, \&
+  {Cirasuolo}}]{Robertson2013}
+{Robertson}, B.~E., {Furlanetto}, S.~R., {Schneider}, E., {et~al.} 2013, \apj,
+  768, 71
+
+\bibitem[{{Sandberg} {et~al.}(2013){Sandberg}, {{\"O}stlin}, {Hayes}, {Fathi},
+  {Schaerer}, {Mas-Hesse}, \& {Rivera-Thorsen}}]{Sandberg2013}
+{Sandberg}, A., {{\"O}stlin}, G., {Hayes}, M., {et~al.} 2013, \aap, 552, A95
+
+\bibitem[{{Savage} \& {Sembach}(1991)}]{Savage1991}
+{Savage}, B.~D., \& {Sembach}, K.~R. 1991, \apj, 379, 245
+
+\bibitem[{{Scarlata} \& {Panagia}(2015)}]{Scarlata2015}
+{Scarlata}, C., \& {Panagia}, N. 2015, \apj, 801, 43
+
+\bibitem[{{Siana} {et~al.}(2010){Siana}, {Teplitz}, {Ferguson}, {Brown},
+  {Giavalisco}, {Dickinson}, {Chary}, {de Mello}, {Conselice}, {Bridge},
+  {Gardner}, {Colbert}, \& {Scarlata}}]{Siana2010}
+{Siana}, B., {Teplitz}, H.~I., {Ferguson}, H.~C., {et~al.} 2010, \apj, 723, 241
+
 \bibitem[{{Vader} {et~al.}(1993){Vader}, {Frogel}, {Terndrup}, \&
   {Heisler}}]{Vader1993}
 {Vader}, J.~P., {Frogel}, J.~A., {Terndrup}, D.~M., \& {Heisler}, C.~A. 1993,
   \aj, 106, 1743
 
+\bibitem[{{Vanzella} {et~al.}(2010){Vanzella}, {Giavalisco}, {Inoue}, {Nonino},
+  {Fontanot}, {Cristiani}, {Grazian}, {Dickinson}, {Stern}, {Tozzi},
+  {Giallongo}, {Ferguson}, {Spinrad}, {Boutsia}, {Fontana}, {Rosati}, \&
+  {Pentericci}}]{Vanzella2010}
+{Vanzella}, E., {Giavalisco}, M., {Inoue}, A.~K., {et~al.} 2010, \apj, 725,
+  1011
+
+\bibitem[{{Vanzella} {et~al.}(2012){Vanzella}, {Guo}, {Giavalisco}, {Grazian},
+  {Castellano}, {Cristiani}, {Dickinson}, {Fontana}, {Nonino}, {Giallongo},
+  {Pentericci}, {Galametz}, {Faber}, {Ferguson}, {Grogin}, {Koekemoer},
+  {Newman}, \& {Siana}}]{Vanzella2012}
+{Vanzella}, E., {Guo}, Y., {Giavalisco}, M., {et~al.} 2012, \apj, 751, 70
+
 \bibitem[{{Verhamme} {et~al.}(2015){Verhamme}, {Orlitov{\'a}}, {Schaerer}, \&
   {Hayes}}]{Verhamme2015}
 {Verhamme}, A., {Orlitov{\'a}}, I., {Schaerer}, D., \& {Hayes}, M. 2015, \aap,
   578, A7
+
+\bibitem[{Walt {et~al.}(2011)Walt, Colbert, \& Varoquaux}]{Numpy}
+Walt, S. v.~d., Colbert, S.~C., \& Varoquaux, G. 2011, Computing in Science \&
+  Engineering, 13, 22
 
 \end{thebibliography}

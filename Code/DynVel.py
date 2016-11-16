@@ -65,9 +65,6 @@ def vel_bin_size(indict):
         width = velocities[i + 1] - velocities[i]
         velbinlist.append(width)
     velbarr = sp.array(velbinlist)
-   # print velbarr.ptp()
-   # print velbarr.mean()
-   # print vb1
     return velbarr.mean()
 
 
@@ -96,16 +93,10 @@ def dynvel(indict, ranges=None, species='Average LIS',
                      and piece of right continuum, 6 clicks in total''',
                      (.5, .9), xycoords='axes fraction',
                      ha='center')
-        #cid = fig.canvas.mpl_connect('button_press_event', onclick)
-        #plt.show()
         exes = plt.ginput(6)
         plt.close()
-        #import pdb; pdb.set_trace() ### XXX BREAKPOINT
-        #plt.show()
-        #print exes
         leftexes = np.asarray(exes[0:2])[:, 0]
         riteexes = np.asarray(exes[4:6])[:, 0]
-        #print 'riteexes', riteexes
         lineexes = np.asarray(exes[2:4])[:, 0]
         exesarr = np.asarray(exes)
     else:
@@ -117,18 +108,9 @@ def dynvel(indict, ranges=None, species='Average LIS',
         except:
             print('Could not make sense of given ranges, exiting')
             return
-    # print leftexes
-    # print lineexes
-    # print riteexes
-    # print leftexes.min(), leftexes.max(), wl.shape
-    #normalise = np.where(((wl >= leftexes.min()) & (wl <= leftexes.max())) |
-    #                    ((wl >= riteexes.min()) & (wl <= riteexes.max())))
-    #norm = np.mean(spedata[normalise])
     spedata_orig = spedata.copy()
     spedata = spedata[indict.Velocity.between(lineexes[0], lineexes[1])]
 
-    #print spedata
-    #line = spedata[(wl >= lineexes.min()) & (wl <= lineexes.max())]
     line = spedata[indict.Velocity.between(lineexes[0], lineexes[1])]
     lidx = sp.where((wl >= lineexes.min()) & (wl <= lineexes.max()))
     liwl = wl[(wl >= lineexes.min()) & (wl <= lineexes.max())]
@@ -137,12 +119,6 @@ def dynvel(indict, ranges=None, species='Average LIS',
     norm = 1.      # Because that is what I did when finding robust lower limits
     width = vel_bin_size(indict)
     area = (norm-line)*width
-    #print area.sum()
-    #print width['CD1_1'], width['CDELT1']
-    # print width
-    #print area.sum()
-    #print area
-    # Now, find the minimum value!
     #datamin = spedata[indict.Velocity.between(lineexes.min(),
     #                                          lineexes.max())].min()
     datamin = spedata.min()
@@ -205,7 +181,8 @@ def dynvel(indict, ranges=None, species='Average LIS',
         plt.axis((pltmin, pltmax, 0, 1))
         plt.axvline(x=llo, ymin=0, ymax=1, color='black', alpha=.5, linestyle=':', lw=.5)
         plt.axvline(x=lhi, ymin=0, ymax=1, color='black', alpha=.5, linestyle=':', lw=.5)
-        plt.figtext(.67, .86, indict.columns.name + '\n' + species, fontsize=9)
+        #plt.figtext(.67, .86, indict.columns.name + '\n' + species, fontsize=9)
+        plt.figtext(.67, .86, indict.columns.name + '\n' + 'Si II $\lambda$ 1260', fontsize=9)
         #plt.figtext(.64, .77, species, fontsize=9)
         #gray dots:
         plt.axvline(x=xlo, color='gray', linestyle='--', alpha=.6, lw=.5)
@@ -249,14 +226,6 @@ def dynvel(indict, ranges=None, species='Average LIS',
         plt.annotate(r'$v_{\mathrm{min}}$'+'{0}'.format(''), (minwl, -.27),
                      fontsize=10, ha='center', va='center', rotation=90.,
                      backgroundcolor='none')
-        # Show limits of selected region. Leave out?
-        #plt.annotate(r'$v_1 =$ '+"%.6s" % str(xlo)+r' km/s', (llo-.9, .7),
-        #            rotation=270, xycoords='data', fontsize=13)
-        #plt.annotate(r'$v_2 =$ '+"%.6s" % str(xhi)+r' km/s', (lhi+.2, .7),
-        #            rotation=270, xycoords='data', fontsize=13)
-        #plt.annotate(r'$\Delta v ='+"%.3s" % str(DynWidth)+
-        #            ' \mathrm{km/s}$', ((llo+lhi)/2., 1.16),
-        #             fontsize=10, ha='center', va='bottom', backgroundcolor='w')
         plt.annotate(r'$W(90\%) ='+"%.3s" % str(DynWidth)+
                     ' \mathrm{km/s}$', ((llo+lhi)/2., 1.16),
                      fontsize=10, ha='center', va='bottom', backgroundcolor='w')

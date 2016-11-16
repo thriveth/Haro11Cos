@@ -17,6 +17,13 @@ cf_color2 = cosp.paircolors[7]
 wdata = pd.read_pickle('../Products/dfdict.pickle')[1]
 vdata = pd.read_pickle('../Products/vflis.pickle')[1]
 hdata = pd.read_pickle('../Products/vfhis.pickle')[1]
+
+## OBS! Because we know the result of the AOD for Haro 11 COS,
+## we set c1260 as proxy for covfrac.
+vdata.MeanProfile = vdata.Si_II_1260_Flam
+vdata.MeanErrors = vdata.Si_II_1260_Stddev
+## End of dirty hardcoding. FIXME
+
 z = 0.020434136
 # print wdata.head()
 # print vdata.head()

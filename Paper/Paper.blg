@@ -5,44 +5,48 @@ The style file: aasjournal.bst
 Database file #1: PaperNotes.bib
 Database file #2: ./main.bib.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 19 entries,
+Warning--empty institution in CosImaging
+Warning--empty publisher in SciPy
+Warning--empty publisher in lmfit2014
+You've used 45 entries,
             3183 wiz_defined-function locations,
-            816 strings with 10145 characters,
-and the built_in function-call counts, 10483 in all, are:
-= -- 842
-> -- 905
-< -- 2
-+ -- 309
-- -- 348
-* -- 963
-:= -- 2004
-add.period$ -- 19
-call.type$ -- 19
-change.case$ -- 155
-chr.to.int$ -- 19
-cite$ -- 19
-duplicate$ -- 361
-empty$ -- 531
-format.name$ -- 355
-if$ -- 2030
+            1006 strings with 17303 characters,
+and the built_in function-call counts, 23720 in all, are:
+= -- 1905
+> -- 1977
+< -- 11
++ -- 667
+- -- 739
+* -- 2133
+:= -- 4520
+add.period$ -- 45
+call.type$ -- 45
+change.case$ -- 333
+chr.to.int$ -- 54
+cite$ -- 48
+duplicate$ -- 872
+empty$ -- 1275
+format.name$ -- 769
+if$ -- 4629
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 19
-newline$ -- 61
-num.names$ -- 76
-pop$ -- 164
+missing$ -- 40
+newline$ -- 139
+num.names$ -- 181
+pop$ -- 353
 preamble$ -- 1
-purify$ -- 155
+purify$ -- 329
 quote$ -- 0
-skip$ -- 296
+skip$ -- 707
 stack$ -- 0
-substring$ -- 393
-swap$ -- 0
+substring$ -- 902
+swap$ -- 13
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 171
-warning$ -- 0
-while$ -- 72
+type$ -- 405
+warning$ -- 3
+while$ -- 168
 width$ -- 0
-write$ -- 193
+write$ -- 456
+(There were 3 warnings)
