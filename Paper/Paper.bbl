@@ -1,6 +1,11 @@
 \begin{thebibliography}{}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
+\bibitem[{{Adamo} {et~al.}(2010){Adamo}, {{\"O}stlin}, {Zackrisson}, {Hayes},
+  {Cumming}, \& {Micheva}}]{Adamo2010}
+{Adamo}, A., {{\"O}stlin}, G., {Zackrisson}, E., {et~al.} 2010, \mnras, 407,
+  870
+
 \bibitem[{{Alexandroff} {et~al.}(2015){Alexandroff}, {Heckman}, {Borthakur},
   {Overzier}, \& {Leitherer}}]{Alexandroff2015}
 {Alexandroff}, R.~M., {Heckman}, T.~M., {Borthakur}, S., {Overzier}, R., \&
