@@ -128,9 +128,6 @@ $endfor$
 %%%-----------------------------------------------------------------------
 \begin{document}
 
-
-\title{$title$}
-
 $if(title)$
 \title{$title$
 	$if(titlefootnote)$
@@ -139,7 +136,7 @@ $if(title)$
 	    $endfor$
         $endif$}
 $endif$
-%
+
 $if(correspondingauthor)$
 \correspondingauthor{$correspondingauthor.name$}
 $if(correspondingauthor.email)$

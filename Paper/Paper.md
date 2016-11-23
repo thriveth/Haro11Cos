@@ -151,7 +151,6 @@ Caption: Approximate position of the COS aperture, shown on HST imaging data of
 continuum subtracted Lyman $\alpha$ in blue. N is up, E is to the left.
 
 
-
 We measure a number of kinematic parameters for both the neutral (LIS) and
 high-ionized (HIS) phase, and apply the apparent optical depth method
 [@Savage1991; @Pettini2002; @Quider2009; @Jones2013], with the implementation
@@ -259,7 +258,6 @@ Caption: The \ion{Si}{2} and other LIS (**upper**) and \ion{Si}{4} (**lower**)
 profiles included in this study. Dashes denote data points masked out due to
 foreground contamination. Note the high-velocity component in both \ion{Si}{4}
 lines, extending out to $\sim 850$ km s⁻¹.
-
 
 \input{table1}
 
@@ -435,16 +433,25 @@ the neutral medium of Si / H $= 3.24^{+0.57}_{-0.48} 10^{-6}$, leading to a
 Hydrogen column density of $6.2^{+0.9}_{-1.1} \times 10^{17}$ cm^-2^. Since HI
 gets opaque to ionizing radiation at $\log N \sim 17.2$ [@Verhamme2015], this
 range is not consistent with the low- optical depth, density bounded scenario.
+
 Furthermore; while Ly$\alpha$ radiative transfer is dominated by gas of $v \sim
-v_0$, Lyman continuum is sensitive to \ion{H}{1} at *all* velocities.
-Integrating the computed column densities over $-450$ km s⁻¹ $< v < 150$ km
-s⁻¹, the velocity range over which the column densities can be reasonably well
-determined (and removing the unphysically high value in the bin at $v \approx
-222$ km s⁻¹), yields a conservative estimate of $\log N_{\rm Si II} \approx
-19.4$, corresponding to more than 150 optical depths in Lyman Continuum,
+v_0$, Lyman continuum is sensitive to \ion{H}{1} at *all* velocities. The total
+column density of \ion{Si}{2} depends on the configuration of the neutral
+clouds. Assuming that the area covered by gas in each velocity bin is
+completely randomly located, a lower limit to the total column density is:
+
+```math #NHImean
+N_{\rm Si II}^{\rm mean} = \sum_i N_{\text{HI}, i} f_{C, i}
+```
+
+Summing this over $-450$ km s⁻¹ $< v < 150$ km s⁻¹, the velocity range over
+which the column densities can be reasonably well determined (and removing the
+unphysically high value in the bin at $v \approx 222$ km s⁻¹), yields a lower
+limit of $\log N_{\rm Si II} = 13.52 \pm 0.15$ and $\log N_{\rm H I} 19.01 \pm
+0.17$, corresponding to $\approx 64$ optical depths in Lyman Continuum,
 strongly incompatible with an optically thin, density-bounded scenario.
 
-However, the pure riddled ionization bounded scenario is easily ruled out since
+However, the *pure* riddled ionization bounded scenario is easily ruled out since
 the Ly$\alpha$ profile does not have any appreciable emission component at zero
 velocity. We therefore expect a residual neutral fraction to remain in the
 ionized phase; a fraction which has a column density high enough to block
@@ -656,23 +663,23 @@ between these. The clumps have HI column densities of gas around $v=0$ in the
 range $N_{\rm HI} = 6.2^{+0.9}_{-1.1} \times 10^{17}$ given the metallicity of
 the background \ion{H}{2} region, which is likely a slight underestimate of
 $N_{\rm HI}$. A conservative estimate of the \ion{H}{1} column density
-integrated over all velocities is $N_{\rm H I}^{\rm tot} \sim 2.5 \times
-10^{19}$ cm⁻². There is a possibility that the found column densities are in
-fact lower limits, since the found \ion{Si}{2} column densities are close to
-the limit where this ion becomes optically thick. We therefore conclude that
-the leaked ionizing photons, if originating from this cluster, most likely
-escaped via sight lines through the ionized medium, which must thus contain a
-neutral gas column density $5 \times 10^{13} \leq N_{\rm HI}^{\rm HIS} \leq 4
-\times 10^{15}$. This range is bounded downwards by the value at which HI
-becomes transparent to Lyman-$\alpha$, and upwards by the sensitivity to
-\ion{Si}{2} of this observation.
+integrated over all velocities is $\log N_{\rm H I}^{\rm tot} = 19.01 \pm
+0.17$. There is a possibility that the found column densities are in fact lower
+limits, since the found \ion{Si}{2} column densities are close to the limit
+where this ion becomes optically thick. We therefore conclude that the leaked
+ionizing photons, if originating from this cluster, most likely escaped via
+sight lines between the neutral clumps through the ionized medium, which must
+thus contain a neutral gas column density $5 \times 10^{13} \leq N_{\rm
+HI}^{\rm HIS} \leq 4 \times 10^{15}$. This range is bounded downwards by the
+value at which HI becomes transparent to Lyman-$\alpha$, and upwards by the
+sensitivity to \ion{Si}{2} of this observation.
 
 
 Acknowledgements                                                            {-}
 -------------------------------------------------------------------------------
 
 GÖ & MH acknowledge the support of the Swedish Research Council,
-Vetenskapsrådet, and the Swedish National Space Board (SNSB) and M. H. is an
+Vetenskapsrådet, and the Swedish National Space Board (SNSB). MH is an
 Academy Fellow of the Knut and Alice Wallenberg Foundation. This project has
 made extensive use of the Python-based packages Numpy [@Numpy], SciPy [@SciPy],
 Matplotlib [@Matplotlib], Pandas [@Pandas], LMfit [@lmfit2014], and Astropy
