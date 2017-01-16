@@ -91,16 +91,18 @@ Hunter, J. 2007, Computing in Science Engineering, 9, 90
   {Deharveng}}]{Iwata2009}
 {Iwata}, I., {Inoue}, A.~K., {Matsuda}, Y., {et~al.} 2009, \apj, 692, 1287
 
-\bibitem[{{Izotov} {et~al.}(2016){Izotov}, {Schaerer}, {Thuan}, {Worseck},
-  {Guseva}, {Orlitov{\'a}}, \& {Verhamme}}]{Izotov2016MNRAS}
-{Izotov}, Y.~I., {Schaerer}, D., {Thuan}, T.~X., {et~al.} 2016, \mnras, 461,
-  3683
+\bibitem[{{Izotov} {et~al.}(2016{\natexlab{a}}){Izotov}, {Orlitov{\'a}},
+  {Schaerer}, {Thuan}, {Verhamme}, {Guseva}, \& {Worseck}}]{Izotov2016Nat}
+{Izotov}, Y.~I., {Orlitov{\'a}}, I., {Schaerer}, D., {et~al.}
+  2016{\natexlab{a}}, \nat, 529, 178
+
+\bibitem[{{Izotov} {et~al.}(2016{\natexlab{b}}){Izotov}, {Schaerer}, {Thuan},
+  {Worseck}, {Guseva}, {Orlitov{\'a}}, \& {Verhamme}}]{Izotov2016MNRAS}
+{Izotov}, Y.~I., {Schaerer}, D., {Thuan}, T.~X., {et~al.} 2016{\natexlab{b}},
+  \mnras, 461, 3683
 
 \bibitem[{{Jaskot} \& {Oey}(2013)}]{Jaskot2013}
 {Jaskot}, A.~E., \& {Oey}, M.~S. 2013, \apj, 766, 91
-
-\bibitem[{{Jaskot} \& {Oey}(2014)}]{JaskotOey}
----. 2014, \apjl, 791, L19
 
 \bibitem[{Jones {et~al.}(2001--)Jones, Oliphant, Peterson, {et~al.}}]{SciPy}
 Jones, E., Oliphant, T., Peterson, P., {et~al.} 2001--, {SciPy}: Open source
@@ -224,5 +226,9 @@ Newville, M., Stensitzki, T., Allen, D.~B., \& Ingargiola, A. 2014, {LMFIT:
 \bibitem[{Walt {et~al.}(2011)Walt, Colbert, \& Varoquaux}]{Numpy}
 Walt, S. v.~d., Colbert, S.~C., \& Varoquaux, G. 2011, Computing in Science \&
   Engineering, 13, 22
+
+\bibitem[{{Zackrisson} {et~al.}(2013){Zackrisson}, {Inoue}, \&
+  {Jensen}}]{Zackrisson2013}
+{Zackrisson}, E., {Inoue}, A.~K., \& {Jensen}, H. 2013, \apj, 777, 39
 
 \end{thebibliography}

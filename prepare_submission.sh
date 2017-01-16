@@ -5,7 +5,7 @@ cp Paper/main.bib ToSubmit/
 cp Paper/table1.tex ToSubmit/
 # Copy figures
 cp Figs/Haroslit.pdf ToSubmit/
-cp Figs/FullSpec.pdf ToSubmit/
+cp Figs/FullSpec.pdf ToSubmit
 cp Figs/EffResol.pdf ToSubmit/
 cp Figs/HISLISProfiles.pdf ToSubmit/
 cp Figs/AOD-details-example.pdf ToSubmit/

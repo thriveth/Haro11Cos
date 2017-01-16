@@ -65,9 +65,9 @@ into the theoretical predictions made from these models. We find that the most
 likely ISM model for Haro 11 knot C is one of clumpy neutral medium embedded in
 a highly ionized inter-clump medium with a combined covering fraction of unity
 and a residual neutral gas column density in the ionized medium of $5 \times
-10^{13} \leq N_{\rm HI} \leq 4 \times 10^{15}$; high enough to be optically
+10^{13} \leq N_{\rm HI} \leq 4 \times 10^{15}$ cm⁻²; high enough to be optically
 thick to Lyman-$\alpha$, but low enough to be at least partly transparent to
-Lyman-continuum and undetected in Si\textsc{ii}.
+Lyman-continuum and undetected in \ion{Si}{2}.
 
 
 Introduction and Observations
@@ -87,7 +87,7 @@ reionization, too, but high star formation is usually coincident with higher
 neutral gas mass, which would cause a higher probability of blocking the
 ionizing photons [e.g. @Erb2016; @Robertson2013]. In the local Universe, only 9
 leakers have been detected so far [@Bergvall2006; @Leitet2011; @Leitet2013;
-@Borthakur2014; Izotov2016Nat; @Izotov2016MNRAS; @Leitherer2016], at escape
+@Borthakur2014; @Izotov2016Nat; @Izotov2016MNRAS; @Leitherer2016], at escape
 fractions ranging typically between 1-8%, with one as high as $f_{\mathrm{esc}}
 \approx 13\%$ [@Izotov2016MNRAS].
 
@@ -98,18 +98,14 @@ gas is optically thin, highly ionized and density-bounded [see e.g.
 photons. In the other regime, the central source is surrounded by an optically
 thick, ionization bounded medium with the neutral medium surrounding the
 central Strömgren sphere not completely covering all lines of sight to the
-background source. This is what is called the *picket fence model* by
-@Heckman2011, or the *riddled ionization bounded medium* by @Verhamme2015. The
-latter paper presents modeling of the imprints of these two extreme scenarios
-on the observed spectral signature of Lyman-$\alpha$ emission lines, and
-suggest how these can help point to candidate LyC leakers. The authors compare
-their theoretical predictions to sample of Lyman-$\alpha$ profiles, including a
-section of the spectrum treated in this work.
-
-The present HST-COS observation is part of the sample in @Heckman2015 and
-@Alexandroff2015, in which details about observation and data reduction are
-described in depth; we point the reader there for further information about
-these. The Ly$\alpha$ profile in this spectrum is discussed in @JaskotOey. 
+background source [see e.g. @Zackrisson2013]. This is what is called the
+*picket fence model* by @Heckman2011, or the *riddled ionization bounded
+medium* by @Verhamme2015. The latter paper presents modeling of the imprints of
+these two extreme scenarios on the observed spectral signature of
+Lyman-$\alpha$ emission lines, and suggest how these can help point to
+candidate LyC leakers. The authors compare their theoretical predictions to
+sample of Lyman-$\alpha$ profiles, including a section of the spectrum treated
+in this work.
 
 In (Rivera-Thorsen et al., submitted to \apj), we analyzed optical and NUV
 nebular emission lines in slit spectra from ESO VLT/X-Shooter [see also
@@ -121,24 +117,27 @@ cloud coverage of knot B and the strong star formation activity in both knots,
 we conclude that this component is not only approaching but also found in front
 of the starburst regions and thus along the LOS to knot C. 
 
-Recently, the galaxy has been observed in 21 cm H\textsc{i} emission with the
-100 m. Robert C. Byrd Green Bank Telescope [@Pardy2016arXiv]. The authors find
-that Haro 11 has a low gas mass and a very low neutral gas to stellar mass
-fraction, and that it contains around twice as much ionized as neutral
-Hydrogen. Interestingly, the authors also find that the bulk of the neutral gas
-is redshifted wrt. the systemic velocity defined from nebular emission from the
-H\textsc{ii} regions surrounding the main starbursts, signifying that the
-majority of the neutral gas reserves are detached from the star formation
-activity, possibly a tidal arm being flung outwards as a part of the ongoing
-merger event. 
+Recently, the galaxy has been observed in 21 cm \ion{H}{1} emission
+with the 100 m. Robert C. Byrd Green Bank Telescope [@Pardy2016arXiv]. The
+authors find that Haro 11 has a low gas mass and a very low neutral gas to
+stellar mass fraction, and that it contains around twice as much ionized as
+neutral Hydrogen. Interestingly, the authors also find that the bulk of the
+neutral gas is redshifted wrt. the systemic velocity defined from nebular
+emission from the \ion{H}{2} regions surrounding the main starbursts,
+signifying that the majority of the neutral gas reserves are detached from the
+star formation activity, possibly a tidal arm being flung outwards as a part of
+the ongoing merger event. 
 
 In this paper, we re-analyze the HST-COS spectrum of Haro 11 C acquired as part
 of HST program GO 13017, PI Timothy Heckman. It was first published in
-@Alexandroff2015 as part of a sample of 22 Lyman Break Analog (LBA) galaxies
-analyzed individually and as a stack. These authors mainly focus on three
-indirect indicators of LyC leakage [@Overzier2009; @Heckman2011]: Residual flux
-in the trough of saturated ISM absorption lines, blueshifted emission in
-Lyman-$\alpha$, and weak optical [\ion{S}{2}] emission lines. 
+@Alexandroff2015 and @Heckman2015 as part of a sample of 22 Lyman Break Analog
+(LBA) galaxies analyzed individually and as a stack. These authors mainly focus
+on three indirect indicators of LyC leakage [@Overzier2009; @Heckman2011]:
+Residual flux in the trough of saturated ISM absorption lines, blueshifted
+emission in Lyman-$\alpha$, and weak optical [\ion{S}{2}] emission lines.
+Details about observation and data reduction are described in depth in
+@Alexandroff2015; we point the reader there for further information about
+these. The Ly$\alpha$ profile in this spectrum is discussed in @Verhamme2015. 
 
 
 <!---------------------FIGURE------------------------------------------------->
@@ -187,17 +186,17 @@ of the target.
 To estimate the effective resolution for this target, we proceeded as follows.
 We used archival imaging data of Haro 11 in the UV-continuum from @Ostlin2009;
 @Hayes2009; since the absorption lines treated here have resolution determined
-by the properties of their surrounding continuum. We the extracted a circular
+by the properties of their surrounding continuum. We then extracted a circular
 image at the same position and radius as the COS aperture, which was rotated to
-match the orientation of the COS as given in the spectrum headers. We then
+match the orientation of the COS as given in the spectrum headers. We
 modelled vignetting in the COS aperture by multiplying each pixel in the
 circular UV-continuum image with an interpolation of the values given in the
 throughput grid in Fig. 7 in @CosImaging. Finally, the aperture cutouts were
 collapsed along the cross-dispersion direction, and the FWHM of the flux
-distribution along the dispersion direction is reported as the effective seeing
-of this observation. This is converted from arc seconds to COS resolution
-elements by the factor 0.171 arcsec/resel reported in the COS instrument
-handbook [@CosHandbook]
+distribution along the dispersion direction is reported as the effective
+resolution of this observation. This is converted from arc seconds to COS
+resolution elements by the factor 0.171 arcsec/resel reported in the COS
+instrument handbook [@CosHandbook]
 
 #### Figure: Effective resolution                                  {#fig:resol}
 
@@ -247,7 +246,7 @@ lines have oscillator strengths within a factor of 2 of each other. They are
 thus at first glance consistent with a medium that is not completely opaque,
 but not with an optically thin one, and within uncertainties consistent with
 the optically thick. The stronger absorption in \ion{Si}{4} reveals a high
-level of ionization of the medium covering the central cluster. 
+level of ionization of the medium covering the background source. 
 
 
 #### Figure: HisLisProf.                                     {#fig:SingleLines}
@@ -269,8 +268,8 @@ density and covering factor in each velocity bin, for both the high- and
 low-ionization state. Here we shall briefly summarize the method, but refer to
 RT15 and references therein for a detailed explanation.
 
-In any given velocity bin, the line intensity in terms of the continuum
-intensity is given as 
+In any given velocity bin, the residual line intensity in terms of the
+continuum intensity is given as 
 
 ```math #eq:II0
 \frac{I}{I_0} = 1 - f_C (1 - e^{-\tau}),
@@ -286,11 +285,11 @@ with the optical depth $\tau$ given as:
 Here, $f$ is the oscillator strength of a given transition, $\lambda$ is its
 rest frame wavelength in Å, $N = N(v)$ is the column density of the relevant
 ion *within the given velocity bin*, and $f_{C}$ is the covering fraction of
-neutral gas *moving at the given velocity*. When multiple absorption lines are
-present which arise from the same ground state; the population of this state is
-the same for all transitions, and their relative strengths are governed simply
-by their oscillator strengths, and with two or more such transitions, $f_{C}$
-and $N$ can be inferred from knowledge of $f \lambda$ and measured values of
+neutral gas in same velocity bin. When multiple absorption lines are present
+which arise from the same ground state; the population of this state is the
+same for all transitions, and their relative strengths are governed simply by
+their oscillator strengths, and with two or more such transitions, $f_{C}$ and
+$N$ can be inferred from knowledge of $f \lambda$ and measured values of
 $I/I_0$. 
 
 #### Figure: AOD                                               {#fig:AOD}
@@ -393,7 +392,7 @@ neutral Sodium resonance absorption doublet $\lambda \lambda 5889.95,5895.92$
 (NaD) an overall, weak *redshift* of $v = 32$ km s⁻¹. From e.g. fig.
 [#fig:HisLisLya], it is evident that while neutral gas *is* present at these
 velocities, the velocity is at odds with the integrated velocity of $v = -149$
-km s⁻¹ found in this work. We note that Na \textsc{i} has a very low ionization
+km s⁻¹ found in this work. We note that \ion{Na}{1} has a very low ionization
 potential of only $\sim 5$ eV, meaning that these atoms may well only be
 present in the densest and/or dustiest regions, in which Sodium is shielded
 from ionization. This is in agreement with the finding of @Sandberg2013 that
@@ -410,12 +409,13 @@ absorption of @Sandberg2013 might be associated with this.
 Also the absorption feature in the Lyman $\alpha$ profile in the upper panel
 seems to morphologically follow the shape of the metal lines, indicating that
 radiative transfer effects are modest, indicative of a fairly low column
-density of HI around line center. We find a Lyman $\alpha$ peak velocity of
-$v_{\rm peak}^{\mathrm{Ly}\alpha} = 158 \pm 1$ km s⁻¹ w.r.t the systemic
-velocity found by @Sandberg2013, derived from nebular emission lines in the
-region around knot C. This velocity, as it is also discussed in @Verhamme2015,
-is just consistent with their theoretical predictions for a density-bounded,
-low-column density system, albeit on the upper limit of their allowed range. 
+density of \ion{H}{1} around line center. We find a Lyman $\alpha$ peak
+velocity of $v_{\rm peak}^{\mathrm{Ly}\alpha} = 158 \pm 1$ km s⁻¹ w.r.t the
+systemic velocity found by @Sandberg2013, derived from nebular emission lines
+in the region around knot C. This velocity, as it is also discussed in
+@Verhamme2015, is just consistent with their theoretical predictions for a
+density-bounded, low-column density system, albeit on the upper limit of their
+allowed range. 
 
 
 ### Metal and \ion{H}{1} column density
@@ -430,9 +430,10 @@ the same way is in [Puschnig et al., submitted to MNRAS] as follows.
 @Guseva2012 found a metallicity of Haro 11 C of $12 + \log_{10}(\text{O/H}) =
 8.1$. With $\log_{10}$ Si/O $= -1.59 \pm 0.07$, this leads to a Si/H ratio in
 the neutral medium of Si / H $= 3.24^{+0.57}_{-0.48} 10^{-6}$, leading to a
-Hydrogen column density of $6.2^{+0.9}_{-1.1} \times 10^{17}$ cm^-2^. Since HI
-gets opaque to ionizing radiation at $\log N \sim 17.2$ [@Verhamme2015], this
-range is not consistent with the low- optical depth, density bounded scenario.
+Hydrogen column density of $6.2^{+0.9}_{-1.1} \times 10^{17}$ cm⁻² for just one
+velocity bin. Since HI gets opaque to ionizing radiation at $\log N \sim 17.2$
+[@Verhamme2015], this range is not consistent with the low- optical depth,
+density bounded scenario.
 
 Furthermore; while Ly$\alpha$ radiative transfer is dominated by gas of $v \sim
 v_0$, Lyman continuum is sensitive to \ion{H}{1} at *all* velocities. The total
@@ -451,10 +452,10 @@ limit of $\log N_{\rm Si II} = 13.52 \pm 0.15$ and $\log N_{\rm H I} 19.01 \pm
 0.17$, corresponding to $\approx 64$ optical depths in Lyman Continuum,
 strongly incompatible with an optically thin, density-bounded scenario.
 
-However, the *pure* riddled ionization bounded scenario is easily ruled out since
-the Ly$\alpha$ profile does not have any appreciable emission component at zero
-velocity. We therefore expect a residual neutral fraction to remain in the
-ionized phase; a fraction which has a column density high enough to block
+However, the *pure* riddled ionization bounded scenario is easily ruled out
+since the Ly$\alpha$ profile does not have any appreciable emission component
+at zero velocity. We therefore expect a residual neutral fraction to remain in
+the ionized phase; a fraction which has a column density high enough to block
 Ly$\alpha$ efficiently at line center, but low enough to be at least part
 transparent to Lyman Continuum radiation and undetected in \ion{Si}{2}.
 
@@ -482,16 +483,16 @@ as a conservative estimate.
 
 The existence of a diffuse neutral component being present in the ionized
 medium seems consistent with what is found in the Green Pea galaxies of
-[@Henry2015] - these galaxies have sometimes very low LIS optical depth, which
-is usually indicative of low covering fractions and high porosity of the
-neytral medium - and yet they find covering fractions of near unity of
+[@Henry2015] - these galaxies have sometimes very low LIS absorption depths,
+which is usually indicative of low covering fractions and high porosity of the
+neutral medium - and yet they find covering fractions of near unity of
 \ion{H}{1} from Lyman $\beta$ absorption, indicating column densities of $N
 \gtrsim 10^{16}$. Like in the case of Haro 11, this indicates that a
 non-negligible neutral component must be present in the ionized phase, although
 it may very well be of such low densities and metallicity that metal absorption
 from this medium is undetectable. 
 
-The column densities we derive for  \ion{Si}{2} in this work are generally
+The column densities we derive for \ion{Si}{2} in this work are generally
 between $12.0 \lesssim \log N \lesssim 12.5$, column densities around which the
 transitions involved become optically thick: For $\lambda \lambda 1260, 1526
 \text{ and } 1304$, $\tau$ becomes 1 at $\log N \sim 11.3, 12.2$ and $12.5$,
@@ -519,22 +520,22 @@ ionized interclump medium containing a dilute neutral component.
 
 The exact value of the metallicity is however uncertain. The values found from
 nebular recombination lines by @Guseva2012 are measured mainly in the central
-HII regions around the clusters; and differ by 0.2 dex between knot B and C.
-The neutral, outflowing gas could be mixed, or have an unseen LOS distance
-component larger than the knot separation, drawing into question which is the
-better value to assume for this gas. We base our conclusions on the value found
-for knot C, but note that using the metallicity of $12 + \log (O/H) = 8.3$
-found for knot B by @Guseva2012, the  inferred H \textsc{i} column densities
-are $3.9 \pm 0.6  \times 10^{17}$ cm^-2^. However, the question of the exact
-metallicity of the outflowing gas is complicated. Gas closer to the star
-forming regions is expected to be more strongly enriched than gas further away,
-which would imply that the HI column density is *larger* than inferred from
-\ion{Si}{2} above. To this can be added the further complication stemming from
-the merger event that the galaxy is currently undergoing, which may have mixed
-gas of different metal contents. In any case, though, we would expect the
-regions nearest to the starbursts to generally have higher metallicity than the
-surrounding cool gas, such that the HI column density inferred above is more
-likely to be underestimated than overestimated. 
+\ion{H}{2} regions around the clusters; and differ by 0.2 dex between knot B
+and C. The neutral, outflowing gas could be mixed, or have an unseen LOS
+distance component larger than the knot separation, drawing into question which
+is the better value to assume for this gas. We base our conclusions on the
+value found for knot C, but note that using the metallicity of $12 + \log (O/H)
+= 8.3$ found for knot B by @Guseva2012, the  inferred \ion{H}{1} column
+densities are $3.9 \pm 0.6  \times 10^{17}$ cm^-2^. However, the question of
+the exact metallicity of the outflowing gas is complicated. Gas closer to the
+star forming regions is expected to be more strongly enriched than gas further
+away, which would imply that the \ion{H}{1} column density is *larger* than
+inferred from \ion{Si}{2} above. To this can be added the further complication
+stemming from the merger event that the galaxy is currently undergoing, which
+may have mixed gas of different metal contents. In any case, though, we would
+expect the regions nearest to the starbursts to generally have higher
+metallicity than the surrounding cool gas, such that the HI column density
+inferred above is more likely to be underestimated than overestimated. 
 
 
 ### Radiative transfer effects {#sec:rt}
@@ -544,8 +545,8 @@ observed lines are close to being pure absorption lines, with redistribution of
 photons due to radiative transfer effects being modest. Modelling work by e.g.
 @Prochaska2011 and @Scarlata2015 has shown that in certain conditions,
 radiative transfer can re-fill absorption features in a way that can make an
-isotropic, optically thin mimic the observational fingerprints of a system of
-optically thick clumps. We therefore need to investigate whether our
+isotropic, optically thin medium mimic the observational fingerprints of a
+system of optically thick clumps. We therefore need to investigate whether our
 conclusions could be generated by such effects. 
 
 #### Figure: RT                                                       {#fig:rt}
@@ -559,14 +560,14 @@ corrected for radiative transfer effects re-filling the absorption trough.
 
 Because the ground level in \ion{Si}{2} is a doublet with a short-lived upper
 level, each of the Silicon lines included in the analysis has a fluorescent
-emission line with practically no absorption component. The fluorescent line
-can be used to constrain the possible effect of radiative infilling of the
+emission companion with practically no absorption component. The fluorescent
+line can be used to constrain the possible effect of radiative infilling of the
 absorption trough. If each photon in the fluorescent transition on average has
 scattered once in the neutral medium, the ratio of emission in this line and
 re-filling of the resonant absorption line is simply that of their Einstein
 coefficients $A_{ki}$. For each subsequent scattering, more photons escape
 directly through the fluorescent channel, and the infilling of the absorption
-line further suppressed. 
+line is further suppressed. 
 
 In fig. [#fig:rt], the observed line profile is shown in blue, along with the
 best fit to \ion{Si}{2}$^*$ shown in orange. Since the fluorescent and
@@ -574,15 +575,15 @@ resonant reemission originate in the same environments, the shape of the
 resonant reemission profile can be completely determined from the shape and
 center of the fluorescent line and the assumption of one scattering. It is
 therefore simple to construct this theoretical reemission line, subtract it
-from the observed absorption line and find a lower limit for the depth of the
-pure absorption line without reemission; this model line sis shown in gray in
-the figure. It is readily seen that the difference between theoretical and
+from the observed absorption line and find the limiting depth of the pure
+absorption line without reemission; this modeled line is shown in gray in the
+figure. It is readily seen that the difference between worst-case intrinsic and
 observed line is so small that it cannot affect our conclusions about the
 covering factors and column densities of the neutral gas significantly. 
 
 We have not performed similar measurements for the lines at $\lambda \lambda
 1304, 1526$, but note that if significant refilling is present here, this would
-mean the column densities had actually been underestimated in our analysis,
+mean the column densities had been underestimated in our analysis,
 which would strengthen the conclusions of a clumpy medium optically thick in
 \ion{Si}{2} $1260$, but part transparent in the much weaker other lines.
 
@@ -623,8 +624,8 @@ from a different species with a very different ionization potential.
 
 Whether this is a physically reasonable strength is difficult to say with
 precision, but we note that to reproduce the feature observed, $\lambda 1334$
-must be optically thick and $\lambda 1335$ part transparent.  This leave open a
-degeneracy of relative level populations and ion abundance, such that the
+must be optically thick and $\lambda 1335$ part transparent.  This leaves open
+a degeneracy of relative level populations and ion abundance, such that the
 choice of this value only weakly constrains these quantities and thus it is
 compatible with a wide range of scenarios. 
 
@@ -668,11 +669,11 @@ integrated over all velocities is $\log N_{\rm H I}^{\rm tot} = 19.01 \pm
 limits, since the found \ion{Si}{2} column densities are close to the limit
 where this ion becomes optically thick. We therefore conclude that the leaked
 ionizing photons, if originating from this cluster, most likely escaped via
-sight lines between the neutral clumps through the ionized medium, which must
-thus contain a neutral gas column density $5 \times 10^{13} \leq N_{\rm
-HI}^{\rm HIS} \leq 4 \times 10^{15}$. This range is bounded downwards by the
-value at which HI becomes transparent to Lyman-$\alpha$, and upwards by the
-sensitivity to \ion{Si}{2} of this observation.
+sight lines between the neutral clumps, through an ionized medium which must
+contain a neutral gas column density $5 \times 10^{13} \lesssim N_{\rm HI}^{\rm
+HIS} \lesssim 4 \times 10^{15}$. This range is bounded downwards by the value
+at which HI becomes transparent to Lyman-$\alpha$, and upwards by the
+detectability of \ion{Si}{2} in this observation.
 
 
 Acknowledgements                                                            {-}

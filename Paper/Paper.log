@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.6.7)  23 NOV 2016 21:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.6.7)  24 NOV 2016 18:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -644,59 +644,59 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 88.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 ) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<../Figs/Haroslit.pdf, id=88, 482.9801pt x 397.5791pt>
+<../Figs/Haroslit.pdf, id=91, 482.9801pt x 397.5791pt>
 File: ../Figs/Haroslit.pdf Graphic file (type pdf)
 
 <use ../Figs/Haroslit.pdf>
-Package pdftex.def Info: ../Figs/Haroslit.pdf used on input line 219.
+Package pdftex.def Info: ../Figs/Haroslit.pdf used on input line 217.
 (pdftex.def)             Requested size: 252.94499pt x 208.22255pt.
 
-Overfull \hbox (10.67847pt too wide) in paragraph at lines 219--220
+Overfull \hbox (10.67847pt too wide) in paragraph at lines 217--218
  [][] 
  []
 
-<../Figs/FullSpec.pdf, id=107, 505.89pt x 144.54pt>
+<../Figs/FullSpec.pdf, id=110, 505.89pt x 144.54pt>
 File: ../Figs/FullSpec.pdf Graphic file (type pdf)
  <use ../Figs/FullSpec.pdf>
-Package pdftex.def Info: ../Figs/FullSpec.pdf used on input line 237.
+Package pdftex.def Info: ../Figs/FullSpec.pdf used on input line 235.
 (pdftex.def)             Requested size: 505.88875pt x 144.53963pt.
 
 [2]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 258.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 256.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 258.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 256.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-<../Figs/EffResol.pdf, id=163, 433.62pt x 433.62pt>
+<../Figs/EffResol.pdf, id=167, 433.62pt x 433.62pt>
 File: ../Figs/EffResol.pdf Graphic file (type pdf)
  <use ../Figs/EffResol.pdf>
-Package pdftex.def Info: ../Figs/EffResol.pdf used on input line 277.
+Package pdftex.def Info: ../Figs/EffResol.pdf used on input line 275.
 (pdftex.def)             Requested size: 242.26653pt x 242.26976pt.
 
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
-<../Figs/HISLISProfiles.pdf, id=182, 544.73514pt x 429.10312pt>
+<../Figs/HISLISProfiles.pdf, id=186, 544.73514pt x 429.10312pt>
 File: ../Figs/HISLISProfiles.pdf Graphic file (type pdf)
 
 <use ../Figs/HISLISProfiles.pdf>
-Package pdftex.def Info: ../Figs/HISLISProfiles.pdf used on input line 329.
+Package pdftex.def Info: ../Figs/HISLISProfiles.pdf used on input line 327.
 (pdftex.def)             Requested size: 252.94499pt x 199.25589pt.
 
-Overfull \hbox (10.67847pt too wide) in paragraph at lines 329--330
+Overfull \hbox (10.67847pt too wide) in paragraph at lines 327--328
  [][] 
  []
 
 (./table1.tex
 Underfull \hbox (badness 10000) detected at line 15
-$\OML/cmm/m/it/9 a$
+$[]$
  []
 
 ) [3 <../Figs/Haroslit.pdf>] [4 <../Figs/FullSpec.pdf> <../Figs/EffResol.pdf
@@ -707,36 +707,36 @@ dfs with page group included in a single page
 
 pdfTeX warning: pdflatex (file ../Figs/HISLISProfiles.pdf): PDF inclusion: mult
 iple pdfs with page group included in a single page
->] <../Figs/AOD-details-example.pdf, id=399, 252.945pt x 433.62pt>
+>] <../Figs/AOD-details-example.pdf, id=402, 252.945pt x 433.62pt>
 File: ../Figs/AOD-details-example.pdf Graphic file (type pdf)
 
 <use ../Figs/AOD-details-example.pdf>
-Package pdftex.def Info: ../Figs/AOD-details-example.pdf used on input line 376
+Package pdftex.def Info: ../Figs/AOD-details-example.pdf used on input line 373
 .
 (pdftex.def)             Requested size: 193.81395pt x 332.26077pt.
 
-<../Figs/Fc_haro11c_LIS.pdf, id=403, 245.57051pt x 245.57051pt>
+<../Figs/Fc_haro11c_LIS.pdf, id=406, 245.57051pt x 245.57051pt>
 File: ../Figs/Fc_haro11c_LIS.pdf Graphic file (type pdf)
 
 <use ../Figs/Fc_haro11c_LIS.pdf>
-Package pdftex.def Info: ../Figs/Fc_haro11c_LIS.pdf used on input line 420.
+Package pdftex.def Info: ../Figs/Fc_haro11c_LIS.pdf used on input line 417.
 (pdftex.def)             Requested size: 205.24384pt x 205.24736pt.
 
-<../Figs/Fc_haro11c-SiIV.pdf, id=404, 245.57051pt x 245.57051pt>
+<../Figs/Fc_haro11c-SiIV.pdf, id=407, 245.57051pt x 245.57051pt>
 File: ../Figs/Fc_haro11c-SiIV.pdf Graphic file (type pdf)
 
 <use ../Figs/Fc_haro11c-SiIV.pdf>
-Package pdftex.def Info: ../Figs/Fc_haro11c-SiIV.pdf used on input line 421.
+Package pdftex.def Info: ../Figs/Fc_haro11c-SiIV.pdf used on input line 418.
 (pdftex.def)             Requested size: 205.24384pt x 205.24736pt.
 
-<../Figs/LyACoverfracs.pdf, id=407, 397.485pt x 397.485pt>
+<../Figs/LyACoverfracs.pdf, id=410, 397.485pt x 397.485pt>
 File: ../Figs/LyACoverfracs.pdf Graphic file (type pdf)
 
 <use ../Figs/LyACoverfracs.pdf>
-Package pdftex.def Info: ../Figs/LyACoverfracs.pdf used on input line 441.
+Package pdftex.def Info: ../Figs/LyACoverfracs.pdf used on input line 438.
 (pdftex.def)             Requested size: 252.94499pt x 252.95209pt.
 
-Overfull \hbox (10.67847pt too wide) in paragraph at lines 441--442
+Overfull \hbox (10.67847pt too wide) in paragraph at lines 438--439
  [][] 
  []
 
@@ -751,56 +751,56 @@ pdfTeX warning: pdflatex (file ../Figs/LyACoverfracs.pdf): PDF inclusion: multi
 ple pdfs with page group included in a single page
 >]
 
-LaTeX Warning: Command \r invalid in math mode on input line 557.
+LaTeX Warning: Command \r invalid in math mode on input line 554.
 
 Missing character: There is no Å in font cmr7!
-[7] <../Figs/1260-fit-fluor.pdf, id=619, 488.72588pt x 316.18124pt>
+[7] <../Figs/1260-fit-fluor.pdf, id=622, 488.72588pt x 316.18124pt>
 File: ../Figs/1260-fit-fluor.pdf Graphic file (type pdf)
 
 <use ../Figs/1260-fit-fluor.pdf>
-Package pdftex.def Info: ../Figs/1260-fit-fluor.pdf used on input line 653.
+Package pdftex.def Info: ../Figs/1260-fit-fluor.pdf used on input line 651.
 (pdftex.def)             Requested size: 252.94499pt x 163.64326pt.
 
-Overfull \hbox (10.67847pt too wide) in paragraph at lines 653--654
+Overfull \hbox (10.67847pt too wide) in paragraph at lines 651--652
  [][] 
  []
 
 [8 <../Figs/1260-fit-fluor.pdf>]
-<../Figs/CIIdoubletmodel.pdf, id=655, 491.436pt x 357.7365pt>
+<../Figs/CIIdoubletmodel.pdf, id=658, 491.436pt x 357.7365pt>
 File: ../Figs/CIIdoubletmodel.pdf Graphic file (type pdf)
 
 <use ../Figs/CIIdoubletmodel.pdf>
-Package pdftex.def Info: ../Figs/CIIdoubletmodel.pdf used on input line 714.
+Package pdftex.def Info: ../Figs/CIIdoubletmodel.pdf used on input line 713.
 (pdftex.def)             Requested size: 252.94499pt x 184.1299pt.
 
-Overfull \hbox (10.67847pt too wide) in paragraph at lines 714--715
+Overfull \hbox (10.67847pt too wide) in paragraph at lines 713--714
  [][] 
  []
 
 [9 <../Figs/CIIdoubletmodel.pdf>] (./Paper.bbl
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 141.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 143.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 141.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 143.
  [10]) [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 802.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 801.
 
 (./Paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 802.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 802.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 801.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 801.
  ) 
 Here is how much of TeX's memory you used:
- 12867 strings out of 493029
- 179505 string characters out of 6136235
- 328218 words of memory out of 5000000
- 16128 multiletter control sequences out of 15000+600000
+ 12872 strings out of 493029
+ 179634 string characters out of 6136235
+ 329139 words of memory out of 5000000
+ 16132 multiletter control sequences out of 15000+600000
  23475 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,13n,49p,632b,614s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,13n,49p,632b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/
@@ -836,10 +836,10 @@ mf/fonts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf/fonts/type1/publi
 c/cm-super/sfti0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
-Output written on Paper.pdf (11 pages, 1700722 bytes).
+Output written on Paper.pdf (11 pages, 1700751 bytes).
 PDF statistics:
- 825 PDF objects out of 1000 (max. 8388607)
- 650 compressed objects within 7 object streams
- 91 named destinations out of 1000 (max. 500000)
+ 828 PDF objects out of 1000 (max. 8388607)
+ 653 compressed objects within 7 object streams
+ 92 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
