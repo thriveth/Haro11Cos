@@ -38,8 +38,16 @@
 {Bouwens}, R.~J., {Illingworth}, G.~D., {Oesch}, P.~A., {et~al.} 2011, \apj,
   737, 90
 
+\bibitem[{{Conselice} {et~al.}(2000){Conselice}, {Gallagher}, {Calzetti},
+  {Homeier}, \& {Kinney}}]{Conselice2000}
+{Conselice}, C.~J., {Gallagher}, J.~S., {Calzetti}, D., {Homeier}, N., \&
+  {Kinney}, A. 2000, \aj, 119, 79
+
 \bibitem[{{Cowie} {et~al.}(2009){Cowie}, {Barger}, \& {Trouille}}]{Cowie2009}
 {Cowie}, L.~L., {Barger}, A.~J., \& {Trouille}, L. 2009, \apj, 692, 1476
+
+\bibitem[{{Dijkstra}(2014)}]{DijkstraRev}
+{Dijkstra}, M. 2014, \pasa, 31, 40
 
 \bibitem[{{Erb}(2016)}]{Erb2016}
 {Erb}, D.~K. 2016, \nat, 529, 159
@@ -59,6 +67,13 @@
   {Henkel}}]{Guseva2012}
 {Guseva}, N.~G., {Izotov}, Y.~I., {Fricke}, K.~J., \& {Henkel}, C. 2012, \aap,
   541, A115
+
+\bibitem[{{Hayes}(2015)}]{Hayes2015}
+{Hayes}, M. 2015, \pasa, 32, e027
+
+\bibitem[{{Hayes} {et~al.}(2007){Hayes}, {{\"O}stlin}, {Atek}, {Kunth},
+  {Mas-Hesse}, {Leitherer}, {Jim{\'e}nez-Bail{\'o}n}, \& {Adamo}}]{Hayes2007}
+{Hayes}, M., {{\"O}stlin}, G., {Atek}, H., {et~al.} 2007, \mnras, 382, 1465
 
 \bibitem[{{Hayes} {et~al.}(2009){Hayes}, {{\"O}stlin}, {Mas-Hesse}, \&
   {Kunth}}]{Hayes2009}
@@ -101,6 +116,11 @@ Hunter, J. 2007, Computing in Science Engineering, 9, 90
 {Izotov}, Y.~I., {Schaerer}, D., {Thuan}, T.~X., {et~al.} 2016{\natexlab{b}},
   \mnras, 461, 3683
 
+\bibitem[{{James} {et~al.}(2014){James}, {Aloisi}, {Heckman}, {Sohn}, \&
+  {Wolfe}}]{James2014}
+{James}, B.~L., {Aloisi}, A., {Heckman}, T., {Sohn}, S.~T., \& {Wolfe}, M.~A.
+  2014, \apj, 795, 109
+
 \bibitem[{{Jaskot} \& {Oey}(2013)}]{Jaskot2013}
 {Jaskot}, A.~E., \& {Oey}, M.~S. 2013, \apj, 766, 91
 
@@ -112,6 +132,11 @@ Jones, E., Oliphant, T., Peterson, P., {et~al.} 2001--, {SciPy}: Open source
   {Stark}}]{Jones2013}
 {Jones}, T.~A., {Ellis}, R.~S., {Schenker}, M.~A., \& {Stark}, D.~P. 2013,
   \apj, 779, 52
+
+\bibitem[{Kunth {et~al.}(1998)Kunth, Mas-Hesse, Terlevich, Terlevich, Lequeux,
+  \& Fall}]{Kunth1998}
+Kunth, D., Mas-Hesse, J.~M., Terlevich, E., {et~al.} 1998, Astronomy and
+  Astrophysics, 20, 11
 
 \bibitem[{{Leitet} {et~al.}(2013){Leitet}, {Bergvall}, {Hayes}, {Linn{\'e}}, \&
   {Zackrisson}}]{Leitet2013}
@@ -143,9 +168,18 @@ Newville, M., Stensitzki, T., Allen, D.~B., \& Ingargiola, A. 2014, {LMFIT:
   Non-Linear Least-Square Minimization and Curve-Fitting for Python¶}, , ,
   doi:10.5281/zenodo.11813
 
+\bibitem[{{{\"O}stlin} {et~al.}(2001){{\"O}stlin}, {Amram}, {Bergvall},
+  {Masegosa}, {Boulesteix}, \& {M{\'a}rquez}}]{Ostlin2001}
+{{\"O}stlin}, G., {Amram}, P., {Bergvall}, N., {et~al.} 2001, \aap, 374, 800
+
 \bibitem[{{{\"O}stlin} {et~al.}(2009){{\"O}stlin}, {Hayes}, {Kunth},
   {Mas-Hesse}, {Leitherer}, {Petrosian}, \& {Atek}}]{Ostlin2009}
 {{\"O}stlin}, G., {Hayes}, M., {Kunth}, D., {et~al.} 2009, \aj, 138, 923
+
+\bibitem[{{{\"O}stlin} {et~al.}(2015){{\"O}stlin}, {Marquart}, {Cumming},
+  {Fathi}, {Bergvall}, {Adamo}, {Amram}, \& {Hayes}}]{Ostlin2015}
+{{\"O}stlin}, G., {Marquart}, T., {Cumming}, R.~J., {et~al.} 2015, \aap, 583,
+  A55
 
 \bibitem[{{Overzier} {et~al.}(2009){Overzier}, {Heckman}, {Tremonti}, {Armus},
   {Basu-Zych}, {Gon{\c c}alves}, {Rich}, {Martin}, {Ptak}, {Schiminovich},

@@ -1,0 +1,310 @@
+---
+author: "Thøger Emil Rivera-Thorsen" 
+affil: "Stockholm University" 
+title: "Cover letter" 
+documentclass: scrartcl 
+classoption: letterpaper, 11pt, titlehead=true, DIV=16, headings=Large 
+titlepage: false 
+biblio-style: apj
+header-includes:
+- \renewcommand*{\titlepagestyle}{scrheadings}
+- \usepackage{aas_macros}
+- \usepackage{mathpazo}
+- \usepackage{multicol}
+- \usepackage{wrapfig}
+- \setmonofont[Scale=1.0]{Latin Modern Mono}
+- \setsansfont{Lato}
+- \setmainfont{Minion Pro}
+- \usepackage[usenames,dvipsnames,svgnames,html]{xcolor}
+- \setkomafont{title}{\sffamily \bfseries \color[HTML]{1F78B4}}
+- \setkomafont{captionlabel}{\small \bfseries \sffamily}
+- \setkomafont{caption}{\footnotesize}
+- \setcapindent{1em}
+- \setkomafont{section}{\Large \color[HTML]{1F78B4}}
+- \setkomafont{author}{\small \itshape}
+- \setkomafont{pagenumber}{\large \upshape \bfseries \color[HTML]{FFFFFF}}
+- \usepackage[automark]{scrpage2}
+- \pagestyle{scrheadings}
+- \setheadsepline{.0pt}
+- \clearscrheadings
+- \automark[section]{chapter}
+- \ihead{\upshape \color[HTML]{999999} T. E. Rivera-Thorsen}
+- \ohead{\colorbox[HTML]{1F78B4}{\color{white} \pagemark}}
+- \makeatletter
+- \chead{\upshape \color[HTML]{999999} \@title}
+- \def\maketitle{\null}
+- \makeatother
+- \cfoot{}
+...
+
+
+Dear editor and referee; 
+
+We thank the referee for this constructive and insightful report, which
+we write below along with our comments in italics. We also resubmit the paper
+with the revisions highlighted in bold face except for a few trivial
+corrections.
+
+Referee Report 
+==============
+
+The paper contains a concise but fairly complete analysis of the ISM properties
+of component C in nearby starburst galaxy Haro 11, with the main aim of
+explaining its Lya and LyC emission.
+
+I could not find any major problems with the paper, except that the English
+could be improved in places. Also, in light of the motivations for this study
+given in the introduction, the paper should conclude with some implications or
+discussions for high redshift galaxies during reionization, instead of just the
+sober reporting of the numerical values of the column densities found in knot C
+of Haro 11. This would make the paper far more appealing and useful to a wider
+cross-section of the community.
+
+Minor comments: 
+---------------
+
+### Section 1
+
+-   the very first sentence is too long, with too many comma-separated parts
+    that do not really go well together. Please rewrite.
+
+    *The sentence has been rewritten.*
+
+
+-   at escape fractions --> with escape fractions
+
+    *This has been corrected twice in this paragraph*. 
+
+
+-   reionization, too, but --> not clear why "too" appears here
+
+    *"Too" has been deleted.*
+
+
+-   "higher neutral gas mass" --> probably better to write "higher neutral gas
+    mass (surface) density"
+
+    *This suggestion has been implemented.*
+
+
+-   suggest how these --> suggests how these
+
+    *This has also been implemented*
+
+
+-   In (Rivera-Thorsen et al., submitted to ApJ) --> remove parentheses (the
+    same problem appears throughout the paper)
+
+    *Three instances of this have been corrected*.
+
+
+-   that both knot B and knot C --> note that at this point, the galaxy Haro 11
+    has not even been introduced yet! It will be completely unclear to the
+    reader what you are referring to here.
+
+    *A clear oversight. I added a short, introductory paragraph about the
+    galaxy.*
+
+
+-   wrt. --> this abbreviation is probably not allowed
+
+    *This has been replaced with "relative to".*
+
+
+-   This component reaches as far --> not sure what is meant here: has a
+    physical scale size of ~200 pc? has a distance of 200 pc?
+
+    *Replaced "reaches" with "extends"*.
+
+
+-   Recently, the galaxy --> again, Haro 11 has not been introduced yet, so it
+    is not clear what "the galaxy" refers to
+
+    *This should hopefully be clearer with the added introductory paragraph above.*
+
+
+-   wrt.
+
+    *has also here been replaced with "relative to".*
+
+
+-   the ongoing merger event --> what merger event? Again, the paper lacks a
+    basic description of Haro 11
+
+    *This should again hopefully be remedied by the above mentioned
+    introductory paragraph.*
+
+
+-   The Lya profile in this spectrum is discussed in Verhamme et al. (2015) -->
+    please write "is ALSO discussed in Verhamme et al. (2015)" (it had already
+    been discussed in Heckman et al. 2011)
+
+    *Added a mention of Heckman et al. 2011 along with Verhamme 2015 at this
+    point*.
+
+-   define the acronyms LIS and HIS
+
+    *Added short definitions in the text*.
+
+-   We measure...from knot C. --> this sentence is much too long and confusing.
+    Please break up in at least two sentences.
+
+    *This paragraph has now bee broken up into 3 shorter sentences. Also added
+    definition of the AOD acronym.*
+
+### Section 1.1
+
+-   We used archival...surrounding continuum. --> It was not clear what the
+    first and second part of this sentence have to do with each other. Please
+    rewrite.
+
+    *I have attempted to clarify this without going into too much detail.*
+
+
+-   in blue tinting --> in blue (color) ("tinting" is a verb)
+
+    *The word "tinting" has been removed.*
+
+
+### Figure 3
+
+-   is the distribution in the bottom panel well described by a Gaussian? If
+    not, does this have impact on the results?
+
+    *A short comment about this has been added at the end of this section.*
+
+
+### Figure 5
+
+-   AOD not defined
+
+    *A definition as been added in the previous section.*
+
+-   I0 --> I_0
+
+    *This has now been corrected*
+
+
+### Section 3.1
+
+-   The picture...central cluster. --> sentence needs to be broken up, it is not
+    logical.
+
+    *This sentence has been broken up and rewritten*
+
+
+-   where also a component is found --> not clear what is meant by that
+
+    *This sentence has also been slightly rewritten and, hopefully, clarified.*
+
+
+### Figure 7
+
+-   Full line is the measured values --> indicates the measured values
+
+    *This suggestion has been implemented*.
+
+
+-   averaged, LIS line profile, smoothed --> too many commas
+
+    *One redundant comma removed, this should hopefully make the meaning
+    clearer.*
+
+
+-   In fig. 1...background source. --> too many commas, rendering the meaning
+    unclear.
+
+    *The sentence has been slightly rewritten and is hopefully clearer now.*
+
+
+-   w.r.t.
+
+    *As before, this has been replaced by "relative to".*
+
+
+### Section 3.2
+
+-   same way is in [Puschnig]--> same way AS in Puschnig...
+
+    *This has been corrected along with the use of brackets.*
+
+
+-   Furthermore; --> Furthermore,
+
+    *Has been corrected but not highlighted*.
+
+
+-   the pure riddled ionization bounded scenario --> it was not clear what was
+    meant by the "pure riddled scenario", this is the first time the word
+    "pure" appears
+
+    *"pure" has not been changed to "strong", along with the addition of a
+    short explanation.*
+
+
+-   seems consistent with what is found in the Green Pea galaxies of (Henry et
+    al. 2015) --> seems consistent with what is found in Lyman Break Analogs
+    and Green Pea galaxies (Heckman et al. 2011, Henry et al. 2015). --(note
+    that the small subset of GP galaxies that have these kind of UV properties
+    are actually Lyman Break Analogs; in fact, the Henry et al. sample contains
+    objects (and COS data) from the LBA sample of Overzier et al. 2009 and
+    Heckman et al. 2011).
+
+    *This suggestion has been implemented*.
+
+
+### Section 3.4
+
+-   define AOD
+
+    *This has been done above in sect. 1.*
+
+
+### Section 3.5
+
+-   rise --> arise
+
+    *This has been implemented*.
+
+### Section 3.6
+
+-   the main star forming knot --> what is the evidence that knot C is "the
+    main star forming knot" ?
+
+    *This sentence has been rewritten to avoid suggesting that this know is
+    more important than the others. Knot C is indeed, probably, slightly more
+    massive than knot B, but this is not of any relevance to this work.*
+
+-   units of HI column density missing here, and throughout the paper
+
+    *We have added the missing units except where the densities are given as
+    log N. These have not been highlighted in the newest version*
+
+
+-   I suggest adding a concluding paragraph related to
+    implications/interpretations for/of high redshift galaxies, tying the
+    motivations given in the introduction to the conclusions of the paper.
+
+    *A closing paragraph has been added to the conclusion, tying the present
+    results to their context in galaxy evolution and reionization.*
+
+Other changes: 
+--------------
+
+- "Lyman continuum" has throughout the paper been changed to "LyC" after the
+  definition of the latter abbreviation.
+
+- Where spelled out, it is now consistently "Lyman continuum" without a hyphen.
+
+- Likewise, the abstract has been polished a bit to also hint at implications
+  for EoR and Gal.Ev. context.
+
+- Better references have been given for the definition of the Picket Fence
+  Model.
+
+- AOD spelled out to become Apparent Optical Depth in caption of fig. 5.
+
+- Caption in fig. 4 has been updated to tell that the data shown is smoothed
+  for clarity, but unsmoothed data are used for computations.
+
+- Abstract has been shortened to the allowed 250 words. 

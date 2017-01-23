@@ -8,6 +8,9 @@ undo/
 *.pyc
 .pyc
 .ipynb_checkpoints/
+*.zip
 
 # Single files:
 testdata1d.dat
+aas_macros.sty
+
