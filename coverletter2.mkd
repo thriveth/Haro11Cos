@@ -1,0 +1,72 @@
+---
+author: "Thøger Emil Rivera-Thorsen" 
+affil: "Stockholm University" 
+title: "Cover letter" 
+documentclass: scrartcl 
+classoption: letterpaper, 11pt, titlehead=true, DIV=16, headings=Large 
+titlepage: false 
+biblio-style: apj
+header-includes:
+- \renewcommand*{\titlepagestyle}{scrheadings}
+- \usepackage{aas_macros}
+- \usepackage{mathpazo}
+- \usepackage{multicol}
+- \usepackage{wrapfig}
+- \setmonofont[Scale=1.0]{Latin Modern Mono}
+#- \setsansfont{Lato}
+#- \setmainfont{Minion Pro}
+- \setmainfont{Latin Modern Roman}
+- \usepackage[usenames,dvipsnames,svgnames,html]{xcolor}
+- \setkomafont{title}{\sffamily \bfseries \color[HTML]{1F78B4}}
+- \setkomafont{captionlabel}{\small \bfseries \sffamily}
+- \setkomafont{caption}{\footnotesize}
+- \setcapindent{1em}
+- \setkomafont{section}{\Large \color[HTML]{1F78B4}}
+- \setkomafont{author}{\small \itshape}
+- \setkomafont{pagenumber}{\large \upshape \bfseries \color[HTML]{FFFFFF}}
+- \usepackage[automark]{scrpage2}
+- \pagestyle{scrheadings}
+- \setheadsepline{.0pt}
+- \clearscrheadings
+- \automark[section]{chapter}
+- \ihead{\upshape \color[HTML]{999999} T. E. Rivera-Thorsen}
+- \ohead{\colorbox[HTML]{1F78B4}{\color{white} \pagemark}}
+- \makeatletter
+- \chead{\upshape \color[HTML]{999999} \@title}
+- \def\maketitle{\null}
+- \makeatother
+- \cfoot{}
+...
+
+
+Referee Report 2
+================
+
+I am satisfied with the modifications. However, in my previous review I failed
+to note that there is no mention of the study of Haro 11 by Grimes et al.
+(2007ApJ...668..891G). Given the discrepancy between Bergvall et al. 2006 and
+Grimes et al. 2007, some discussion seems warranted. At least the Grimes et al.
+study could be mentioned.
+
+***Reply:*** *Grimes+ 2007 is indeed a relevant paper to mention. We have now
+sketched the debate of Bergvall+ 2006, Grimes+ 2007 and Leitet+ 2011, and added
+a little word of caution about the reported LyC escape.*
+
+This sentence has 4 commas, plus one strangely placed period. I suggest
+rewording.
+
+>"Knots B and C are both very strong in H, revealing that they also are
+>producing strong Lya and LyC. are also strong in intrinsic Lya, but while knot
+>C is a strong Lya emitter, knot B is a strong absorber, indicating that the
+>neutral ISM properties along the line of sight to the two knots are quite
+>different (Hayes et al. 2009; Östlin et al. 2009)."
+
+***Reply:*** *This was a clear oversight. A residual piece of an earlier
+wording had not been removed, this has now been done.*
+
+Other changes 
+-------------
+
+*Added "of Haro 11" in the first sentence of sect. 3.6 (Conclusion), because it
+seemed appropriate here.*
+

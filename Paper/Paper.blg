@@ -8,45 +8,45 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty institution in CosImaging
 Warning--empty publisher in SciPy
 Warning--empty publisher in lmfit2014
-You've used 55 entries,
+You've used 56 entries,
             3183 wiz_defined-function locations,
-            1088 strings with 19996 characters,
-and the built_in function-call counts, 29117 in all, are:
-= -- 2359
-> -- 2414
+            1096 strings with 20317 characters,
+and the built_in function-call counts, 29628 in all, are:
+= -- 2397
+> -- 2458
 < -- 12
-+ -- 823
-- -- 911
-* -- 2612
-:= -- 5552
-add.period$ -- 55
-call.type$ -- 55
-change.case$ -- 427
-chr.to.int$ -- 63
-cite$ -- 58
-duplicate$ -- 1058
-empty$ -- 1553
-format.name$ -- 938
-if$ -- 5672
++ -- 837
+- -- 927
+* -- 2661
+:= -- 5652
+add.period$ -- 56
+call.type$ -- 56
+change.case$ -- 432
+chr.to.int$ -- 64
+cite$ -- 59
+duplicate$ -- 1077
+empty$ -- 1581
+format.name$ -- 955
+if$ -- 5772
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 50
-newline$ -- 169
-num.names$ -- 221
-pop$ -- 449
+missing$ -- 51
+newline$ -- 172
+num.names$ -- 225
+pop$ -- 455
 preamble$ -- 1
-purify$ -- 423
+purify$ -- 428
 quote$ -- 0
-skip$ -- 857
+skip$ -- 872
 stack$ -- 0
-substring$ -- 1106
+substring$ -- 1127
 swap$ -- 15
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 495
+type$ -- 504
 warning$ -- 3
-while$ -- 208
+while$ -- 211
 width$ -- 0
-write$ -- 556
+write$ -- 566
 (There were 3 warnings)

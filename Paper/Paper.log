@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.9)  23 JAN 2017 20:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.9)  26 JAN 2017 11:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -576,39 +576,39 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 145--145
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 115--115
 [][] 
  []
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] <../Figs/Haroslit.pdf, id=171, 482.9801pt x 397.5791pt>
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] <../Figs/Haroslit.pdf, id=180, 482.9801pt x 397.5791pt>
 File: ../Figs/Haroslit.pdf Graphic file (type pdf)
  <use ../Figs/Haroslit.pdf>
-Package pdftex.def Info: ../Figs/Haroslit.pdf used on input line 263.
+Package pdftex.def Info: ../Figs/Haroslit.pdf used on input line 215.
 (pdftex.def)             Requested size: 252.94499pt x 208.22255pt.
 
-Overfull \hbox (10.67847pt too wide) in paragraph at lines 263--264
+Overfull \hbox (10.67847pt too wide) in paragraph at lines 215--216
  [][] 
  []
 
-<../Figs/FullSpec.pdf, id=190, 505.89pt x 144.54pt>
+<../Figs/FullSpec.pdf, id=199, 505.89pt x 144.54pt>
 File: ../Figs/FullSpec.pdf Graphic file (type pdf)
  <use ../Figs/FullSpec.pdf>
-Package pdftex.def Info: ../Figs/FullSpec.pdf used on input line 281.
+Package pdftex.def Info: ../Figs/FullSpec.pdf used on input line 234.
 (pdftex.def)             Requested size: 505.88875pt x 144.53963pt.
- <../Figs/EffResol.pdf, id=200, 433.62pt x 433.62pt>
+ <../Figs/EffResol.pdf, id=209, 433.62pt x 433.62pt>
 File: ../Figs/EffResol.pdf Graphic file (type pdf)
  <use ../Figs/EffResol.pdf>
-Package pdftex.def Info: ../Figs/EffResol.pdf used on input line 322.
+Package pdftex.def Info: ../Figs/EffResol.pdf used on input line 275.
 (pdftex.def)             Requested size: 242.26653pt x 242.26976pt.
  (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [3 <../Figs/Haroslit.pdf>] <../Figs/HISLISProfiles.pdf, id=297, 544.73514pt x 429.10312pt>
+) [3 <../Figs/Haroslit.pdf>] <../Figs/HISLISProfiles.pdf, id=303, 544.73514pt x 429.10312pt>
 File: ../Figs/HISLISProfiles.pdf Graphic file (type pdf)
  <use ../Figs/HISLISProfiles.pdf>
-Package pdftex.def Info: ../Figs/HISLISProfiles.pdf used on input line 377.
+Package pdftex.def Info: ../Figs/HISLISProfiles.pdf used on input line 330.
 (pdftex.def)             Requested size: 252.94499pt x 199.25589pt.
 
-Overfull \hbox (10.67847pt too wide) in paragraph at lines 377--378
+Overfull \hbox (10.67847pt too wide) in paragraph at lines 330--331
  [][] 
  []
 
@@ -622,45 +622,45 @@ $[]$
 pdfTeX warning: pdflatex (file ../Figs/EffResol.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 397.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 350.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 397.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 350.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-<../Figs/AOD-details-example.pdf, id=417, 252.945pt x 433.62pt>
+<../Figs/AOD-details-example.pdf, id=424, 252.945pt x 433.62pt>
 File: ../Figs/AOD-details-example.pdf Graphic file (type pdf)
  <use ../Figs/AOD-details-example.pdf>
-Package pdftex.def Info: ../Figs/AOD-details-example.pdf used on input line 425.
+Package pdftex.def Info: ../Figs/AOD-details-example.pdf used on input line 378.
 (pdftex.def)             Requested size: 193.81395pt x 332.26077pt.
  [5 <../Figs/HISLISProfiles.pdf> <../Figs/AOD-details-example.pdf
 
 pdfTeX warning: pdflatex (file ../Figs/AOD-details-example.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] <../Figs/Fc_haro11c_LIS.pdf, id=484, 245.57051pt x 245.57051pt>
+>] <../Figs/Fc_haro11c_LIS.pdf, id=491, 245.57051pt x 245.57051pt>
 File: ../Figs/Fc_haro11c_LIS.pdf Graphic file (type pdf)
  <use ../Figs/Fc_haro11c_LIS.pdf>
-Package pdftex.def Info: ../Figs/Fc_haro11c_LIS.pdf used on input line 469.
+Package pdftex.def Info: ../Figs/Fc_haro11c_LIS.pdf used on input line 422.
 (pdftex.def)             Requested size: 205.24384pt x 205.24736pt.
- <../Figs/Fc_haro11c-SiIV.pdf, id=485, 245.57051pt x 245.57051pt>
+ <../Figs/Fc_haro11c-SiIV.pdf, id=492, 245.57051pt x 245.57051pt>
 File: ../Figs/Fc_haro11c-SiIV.pdf Graphic file (type pdf)
  <use ../Figs/Fc_haro11c-SiIV.pdf>
-Package pdftex.def Info: ../Figs/Fc_haro11c-SiIV.pdf used on input line 470.
+Package pdftex.def Info: ../Figs/Fc_haro11c-SiIV.pdf used on input line 423.
 (pdftex.def)             Requested size: 205.24384pt x 205.24736pt.
- <../Figs/LyACoverfracs.pdf, id=488, 397.485pt x 397.485pt>
+ <../Figs/LyACoverfracs.pdf, id=495, 397.485pt x 397.485pt>
 File: ../Figs/LyACoverfracs.pdf Graphic file (type pdf)
  <use ../Figs/LyACoverfracs.pdf>
-Package pdftex.def Info: ../Figs/LyACoverfracs.pdf used on input line 490.
+Package pdftex.def Info: ../Figs/LyACoverfracs.pdf used on input line 443.
 (pdftex.def)             Requested size: 252.94499pt x 252.95209pt.
 
-Overfull \hbox (10.67847pt too wide) in paragraph at lines 490--491
+Overfull \hbox (10.67847pt too wide) in paragraph at lines 443--444
  [][] 
  []
 
 [6]
 
-LaTeX Warning: Command \r invalid in math mode on input line 609.
+LaTeX Warning: Command \r invalid in math mode on input line 555.
 
 Missing character: There is no Å in font cmr7!
 [7 <../Figs/Fc_haro11c_LIS.pdf> <../Figs/Fc_haro11c-SiIV.pdf
@@ -669,71 +669,66 @@ pdfTeX warning: pdflatex (file ../Figs/Fc_haro11c-SiIV.pdf): PDF inclusion: mult
 > <../Figs/LyACoverfracs.pdf
 
 pdfTeX warning: pdflatex (file ../Figs/LyACoverfracs.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] <../Figs/1260-fit-fluor.pdf, id=668, 488.72588pt x 316.18124pt>
+>] <../Figs/1260-fit-fluor.pdf, id=674, 488.72588pt x 316.18124pt>
 File: ../Figs/1260-fit-fluor.pdf Graphic file (type pdf)
  <use ../Figs/1260-fit-fluor.pdf>
-Package pdftex.def Info: ../Figs/1260-fit-fluor.pdf used on input line 707.
+Package pdftex.def Info: ../Figs/1260-fit-fluor.pdf used on input line 651.
 (pdftex.def)             Requested size: 252.94499pt x 163.64326pt.
 
-Overfull \hbox (10.67847pt too wide) in paragraph at lines 707--708
+Overfull \hbox (10.67847pt too wide) in paragraph at lines 651--652
  [][] 
  []
 
 [8]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 740.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 684.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 740.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 684.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-<../Figs/CIIdoubletmodel.pdf, id=680, 491.436pt x 357.7365pt>
+<../Figs/CIIdoubletmodel.pdf, id=687, 491.436pt x 357.7365pt>
 File: ../Figs/CIIdoubletmodel.pdf Graphic file (type pdf)
  <use ../Figs/CIIdoubletmodel.pdf>
-Package pdftex.def Info: ../Figs/CIIdoubletmodel.pdf used on input line 769.
+Package pdftex.def Info: ../Figs/CIIdoubletmodel.pdf used on input line 713.
 (pdftex.def)             Requested size: 252.94499pt x 184.1299pt.
 
-Overfull \hbox (10.67847pt too wide) in paragraph at lines 769--770
+Overfull \hbox (10.67847pt too wide) in paragraph at lines 713--714
  [][] 
  []
 
 [9 <../Figs/1260-fit-fluor.pdf> <../Figs/CIIdoubletmodel.pdf
 
 pdfTeX warning: pdflatex (file ../Figs/CIIdoubletmodel.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->]
-Underfull \hbox (badness 1092) in paragraph at lines 873--874
-\T1/cmr/bx/n/10 con-struc-tive and in-sight-ful com-ments, which
- []
-
-(./Paper.bbl [10]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 168.
+>] (./Paper.bbl [10]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 172.
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 168.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 172.
 ) [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 886.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 830.
  (./Paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 886.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 886.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 830.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 830.
  ) 
 Here is how much of TeX's memory you used:
- 12920 strings out of 493029
- 180479 string characters out of 6136235
- 360937 words of memory out of 5000000
- 16170 multiletter control sequences out of 15000+600000
- 24952 words of font info for 66 fonts, out of 8000000 for 9000
+ 12922 strings out of 493029
+ 180496 string characters out of 6136235
+ 359063 words of memory out of 5000000
+ 16172 multiletter control sequences out of 15000+600000
+ 24251 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,13n,49p,632b,586s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfcc0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
-Output written on Paper.pdf (11 pages, 1757881 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc0600.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfcc0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
+Output written on Paper.pdf (11 pages, 1727723 bytes).
 PDF statistics:
- 881 PDF objects out of 1000 (max. 8388607)
- 703 compressed objects within 8 object streams
- 100 named destinations out of 1000 (max. 500000)
+ 884 PDF objects out of 1000 (max. 8388607)
+ 707 compressed objects within 8 object streams
+ 101 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
