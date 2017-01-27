@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex Paper"] 1485425172 "Paper.aux" "Paper.bbl" "Paper" 1485426203
+["bibtex Paper"] 1485478188 "Paper.aux" "Paper.bbl" "Paper" 1485478248
   "./main.bib" 1485183384 117658 efc4a7ab41be725c68b5b96901e9f0ca ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/aastex/aasjournal.bst" 1457045297 33461 7890dd95f8d54a3591b8704229ec0807 ""
-  "Paper.aux" 1485426202 15349 843615044f4f07fe947fe847b4a39e2b ""
+  "Paper.aux" 1485478248 15349 d4b2d572855c0697df41fcf5f1d9bfc8 ""
   "Paper.bcf" 0 -1 0 ""
-  "PaperNotes.bib" 1485426202 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "PaperNotes.bib" 1485478248 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "Paper.bbl"
   "Paper.blg"
-["pdflatex"] 1485426202 "Paper.tex" "Paper.pdf" "Paper" 1485426203
+["pdflatex"] 1485478247 "Paper.tex" "Paper.pdf" "Paper" 1485478248
   "../Figs/1260-fit-fluor.pdf" 1477516974 216152 ab36bbaa6697a55b16c650f47693a308 ""
   "../Figs/AOD-details-example.pdf" 1477587684 253021 46fb5425baf01e8e5cdeb76ff512b02a ""
   "../Figs/CIIdoubletmodel.pdf" 1478876904 239719 f5d85b4078a1205ed8ab2f054c7e8c73 ""
@@ -174,12 +174,12 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1458942643 31351 b32c45dce4a01cb7b53ed90c546614ca ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1470763964 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1470764066 3853520 9608ee0b2a6b40e20e4a83fbd8ecb9f4 ""
-  "Paper.aux" 1485426202 15349 843615044f4f07fe947fe847b4a39e2b ""
-  "Paper.bbl" 1485425172 12138 f0645a13cd4aa2450b897e6c4492b365 "bibtex Paper"
-  "Paper.tex" 1485426200 45356 3b4c67e3d629022bb025cb20df9a851c ""
+  "Paper.aux" 1485478248 15349 d4b2d572855c0697df41fcf5f1d9bfc8 ""
+  "Paper.bbl" 1485478188 12138 f0645a13cd4aa2450b897e6c4492b365 "bibtex Paper"
+  "Paper.tex" 1485478246 45339 aa02f0c242d62e4e08130e2658740b65 ""
   "table1.tex" 1479941032 697 2813acf0fc363bad3565094e591262e3 ""
   (generated)
-  "Paper.pdf"
   "Paper.aux"
+  "Paper.pdf"
   "PaperNotes.bib"
   "Paper.log"
