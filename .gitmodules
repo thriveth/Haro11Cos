@@ -1,0 +1,3 @@
+[submodule "Code/spectools"]
+	path = Code/spectools
+	url = git@github.com:thriveth/spectools.git
